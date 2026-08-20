@@ -1,1 +1,1261 @@
-#placeholder
+Date,Year,Month,Region,Product,Channel,Customer_Segment,Units_Sold,Revenue_USD
+2023-01-01,2023,1,North America,Personal Loan,Branch (Assisted),SME,548,77979.06
+2023-02-01,2023,2,North America,Personal Loan,Mobile App,Retail,457,66270.48
+2023-03-01,2023,3,North America,Personal Loan,Mobile App,Retail,667,99038.09
+2023-04-01,2023,4,North America,Personal Loan,Mobile App,Retail,649,93121.2
+2023-05-01,2023,5,North America,Personal Loan,Mobile App,SME,527,76793.65
+2023-06-01,2023,6,North America,Personal Loan,Web Platform,Retail,578,84327.39
+2023-07-01,2023,7,North America,Personal Loan,Mobile App,Retail,463,63239.35
+2023-08-01,2023,8,North America,Personal Loan,Partner/Broker,Retail,509,72575.48
+2023-09-01,2023,9,North America,Personal Loan,Web Platform,Retail,458,67832.31
+2023-10-01,2023,10,North America,Personal Loan,Web Platform,SME,482,73977.1
+2023-11-01,2023,11,North America,Personal Loan,Mobile App,SME,575,82774.75
+2023-12-01,2023,12,North America,Personal Loan,Web Platform,SME,470,63234.75
+2024-01-01,2024,1,North America,Personal Loan,Web Platform,SME,563,79921.96
+2024-02-01,2024,2,North America,Personal Loan,Mobile App,Retail,561,82166.84
+2024-03-01,2024,3,North America,Personal Loan,Branch (Assisted),Private/HNW,623,92147.57
+2024-04-01,2024,4,North America,Personal Loan,Partner/Broker,Retail,706,107255.45
+2024-05-01,2024,5,North America,Personal Loan,Partner/Broker,Retail,558,74740.22
+2024-06-01,2024,6,North America,Personal Loan,Mobile App,Retail,564,78869.1
+2024-07-01,2024,7,North America,Personal Loan,Web Platform,Mass Affluent,517,71426.71
+2024-08-01,2024,8,North America,Personal Loan,Web Platform,Mass Affluent,540,82804.57
+2024-09-01,2024,9,North America,Personal Loan,Partner/Broker,Mass Affluent,617,92095.37
+2024-10-01,2024,10,North America,Personal Loan,Partner/Broker,SME,598,80543.14
+2024-11-01,2024,11,North America,Personal Loan,Mobile App,Retail,635,88673.59
+2024-12-01,2024,12,North America,Personal Loan,Web Platform,SME,606,92428.29
+2025-01-01,2025,1,North America,Personal Loan,Mobile App,Retail,656,97694.44
+2025-02-01,2025,2,North America,Personal Loan,Web Platform,SME,601,86950.26
+2025-03-01,2025,3,North America,Personal Loan,Web Platform,Retail,780,110965.0
+2025-04-01,2025,4,North America,Personal Loan,Mobile App,Mass Affluent,837,114359.22
+2025-05-01,2025,5,North America,Personal Loan,Branch (Assisted),Retail,731,106659.99
+2025-06-01,2025,6,North America,Personal Loan,Partner/Broker,Retail,754,107326.52
+2025-07-01,2025,7,North America,Personal Loan,Web Platform,Retail,655,97124.79
+2025-08-01,2025,8,North America,Personal Loan,Web Platform,Retail,611,87074.47
+2025-09-01,2025,9,North America,Personal Loan,Web Platform,Private/HNW,664,93022.18
+2025-10-01,2025,10,North America,Personal Loan,Partner/Broker,Mass Affluent,689,103027.24
+2025-11-01,2025,11,North America,Personal Loan,Mobile App,Retail,755,110717.04
+2025-12-01,2025,12,North America,Personal Loan,Branch (Assisted),Retail,673,96170.87
+2023-01-01,2023,1,North America,Credit Card,Mobile App,Retail,890,58335.3
+2023-02-01,2023,2,North America,Credit Card,Web Platform,Retail,945,58141.17
+2023-03-01,2023,3,North America,Credit Card,Mobile App,Retail,1053,69803.29
+2023-04-01,2023,4,North America,Credit Card,Branch (Assisted),Mass Affluent,1017,64743.43
+2023-05-01,2023,5,North America,Credit Card,Mobile App,Retail,1116,70150.65
+2023-06-01,2023,6,North America,Credit Card,Branch (Assisted),Retail,1155,69688.67
+2023-07-01,2023,7,North America,Credit Card,Partner/Broker,Retail,1269,88141.43
+2023-08-01,2023,8,North America,Credit Card,Web Platform,SME,1033,69182.78
+2023-09-01,2023,9,North America,Credit Card,Branch (Assisted),Private/HNW,1104,72942.02
+2023-10-01,2023,10,North America,Credit Card,Mobile App,Private/HNW,1385,84633.32
+2023-11-01,2023,11,North America,Credit Card,Partner/Broker,Retail,1708,115959.46
+2023-12-01,2023,12,North America,Credit Card,Web Platform,Retail,1521,95653.04
+2024-01-01,2024,1,North America,Credit Card,Web Platform,Retail,1051,70922.22
+2024-02-01,2024,2,North America,Credit Card,Web Platform,Retail,1153,76626.1
+2024-03-01,2024,3,North America,Credit Card,Partner/Broker,SME,1225,80852.46
+2024-04-01,2024,4,North America,Credit Card,Web Platform,Retail,1299,78173.96
+2024-05-01,2024,5,North America,Credit Card,Partner/Broker,Mass Affluent,1275,86647.4
+2024-06-01,2024,6,North America,Credit Card,Mobile App,SME,1345,84805.52
+2024-07-01,2024,7,North America,Credit Card,Partner/Broker,Retail,1112,78246.85
+2024-08-01,2024,8,North America,Credit Card,Mobile App,SME,1139,75919.67
+2024-09-01,2024,9,North America,Credit Card,Web Platform,Retail,1462,95589.03
+2024-10-01,2024,10,North America,Credit Card,Partner/Broker,Retail,1216,74791.98
+2024-11-01,2024,11,North America,Credit Card,Mobile App,Retail,1921,128914.46
+2024-12-01,2024,12,North America,Credit Card,Mobile App,Mass Affluent,1724,110639.68
+2025-01-01,2025,1,North America,Credit Card,Mobile App,Private/HNW,1253,79577.39
+2025-02-01,2025,2,North America,Credit Card,Branch (Assisted),Retail,1163,75713.44
+2025-03-01,2025,3,North America,Credit Card,Mobile App,Retail,1473,102410.18
+2025-04-01,2025,4,North America,Credit Card,Mobile App,Retail,1442,92877.98
+2025-05-01,2025,5,North America,Credit Card,Mobile App,Mass Affluent,1361,88545.6
+2025-06-01,2025,6,North America,Credit Card,Mobile App,Private/HNW,1494,99901.16
+2025-07-01,2025,7,North America,Credit Card,Web Platform,Mass Affluent,1501,95539.01
+2025-08-01,2025,8,North America,Credit Card,Mobile App,Mass Affluent,1582,107648.18
+2025-09-01,2025,9,North America,Credit Card,Mobile App,Retail,1485,97622.72
+2025-10-01,2025,10,North America,Credit Card,Mobile App,SME,1727,112341.94
+2025-11-01,2025,11,North America,Credit Card,Mobile App,Retail,2360,149790.42
+2025-12-01,2025,12,North America,Credit Card,Branch (Assisted),Retail,2134,137434.96
+2023-01-01,2023,1,North America,Mortgage,Mobile App,Mass Affluent,55,71433.4
+2023-02-01,2023,2,North America,Mortgage,Branch (Assisted),Retail,67,80413.35
+2023-03-01,2023,3,North America,Mortgage,Mobile App,Mass Affluent,78,100674.29
+2023-04-01,2023,4,North America,Mortgage,Partner/Broker,Retail,80,101508.23
+2023-05-01,2023,5,North America,Mortgage,Partner/Broker,Retail,105,131578.53
+2023-06-01,2023,6,North America,Mortgage,Partner/Broker,Retail,91,116657.96
+2023-07-01,2023,7,North America,Mortgage,Partner/Broker,SME,77,93463.04
+2023-08-01,2023,8,North America,Mortgage,Web Platform,Retail,71,87238.43
+2023-09-01,2023,9,North America,Mortgage,Mobile App,Retail,72,82359.54
+2023-10-01,2023,10,North America,Mortgage,Web Platform,Mass Affluent,65,80525.41
+2023-11-01,2023,11,North America,Mortgage,Web Platform,Retail,80,95594.0
+2023-12-01,2023,12,North America,Mortgage,Mobile App,SME,65,81150.85
+2024-01-01,2024,1,North America,Mortgage,Branch (Assisted),SME,61,79380.43
+2024-02-01,2024,2,North America,Mortgage,Web Platform,SME,91,113788.34
+2024-03-01,2024,3,North America,Mortgage,Web Platform,Retail,83,103028.63
+2024-04-01,2024,4,North America,Mortgage,Partner/Broker,Retail,114,141654.88
+2024-05-01,2024,5,North America,Mortgage,Branch (Assisted),Retail,96,112811.58
+2024-06-01,2024,6,North America,Mortgage,Web Platform,Mass Affluent,102,121397.22
+2024-07-01,2024,7,North America,Mortgage,Web Platform,SME,78,95103.53
+2024-08-01,2024,8,North America,Mortgage,Web Platform,Mass Affluent,80,101217.23
+2024-09-01,2024,9,North America,Mortgage,Web Platform,Private/HNW,80,95363.25
+2024-10-01,2024,10,North America,Mortgage,Mobile App,Mass Affluent,75,98141.25
+2024-11-01,2024,11,North America,Mortgage,Mobile App,Retail,86,108495.28
+2024-12-01,2024,12,North America,Mortgage,Mobile App,SME,73,85997.33
+2025-01-01,2025,1,North America,Mortgage,Mobile App,SME,71,88268.46
+2025-02-01,2025,2,North America,Mortgage,Mobile App,Retail,80,97415.29
+2025-03-01,2025,3,North America,Mortgage,Mobile App,SME,95,122416.89
+2025-04-01,2025,4,North America,Mortgage,Mobile App,Retail,146,196969.95
+2025-05-01,2025,5,North America,Mortgage,Web Platform,Retail,121,151688.67
+2025-06-01,2025,6,North America,Mortgage,Mobile App,Retail,121,146496.45
+2025-07-01,2025,7,North America,Mortgage,Web Platform,Retail,101,131327.01
+2025-08-01,2025,8,North America,Mortgage,Branch (Assisted),SME,92,111381.61
+2025-09-01,2025,9,North America,Mortgage,Mobile App,SME,94,107095.75
+2025-10-01,2025,10,North America,Mortgage,Partner/Broker,Retail,100,133895.13
+2025-11-01,2025,11,North America,Mortgage,Web Platform,Retail,100,119051.25
+2025-12-01,2025,12,North America,Mortgage,Web Platform,Mass Affluent,81,103435.94
+2023-01-01,2023,1,North America,SME Business Loan,Web Platform,Retail,107,91621.36
+2023-02-01,2023,2,North America,SME Business Loan,Mobile App,Private/HNW,110,97213.67
+2023-03-01,2023,3,North America,SME Business Loan,Branch (Assisted),Mass Affluent,113,103739.16
+2023-04-01,2023,4,North America,SME Business Loan,Web Platform,Retail,105,92376.6
+2023-05-01,2023,5,North America,SME Business Loan,Web Platform,SME,114,103447.89
+2023-06-01,2023,6,North America,SME Business Loan,Web Platform,Retail,115,105574.78
+2023-07-01,2023,7,North America,SME Business Loan,Mobile App,Retail,118,98221.98
+2023-08-01,2023,8,North America,SME Business Loan,Mobile App,Mass Affluent,131,113306.47
+2023-09-01,2023,9,North America,SME Business Loan,Partner/Broker,Retail,129,120836.43
+2023-10-01,2023,10,North America,SME Business Loan,Branch (Assisted),Retail,113,94413.51
+2023-11-01,2023,11,North America,SME Business Loan,Mobile App,Retail,118,102442.71
+2023-12-01,2023,12,North America,SME Business Loan,Mobile App,Retail,128,101336.32
+2024-01-01,2024,1,North America,SME Business Loan,Mobile App,Retail,128,110565.06
+2024-02-01,2024,2,North America,SME Business Loan,Mobile App,Retail,111,98738.14
+2024-03-01,2024,3,North America,SME Business Loan,Branch (Assisted),Retail,120,110697.19
+2024-04-01,2024,4,North America,SME Business Loan,Partner/Broker,Mass Affluent,134,115414.34
+2024-05-01,2024,5,North America,SME Business Loan,Partner/Broker,Retail,133,116482.27
+2024-06-01,2024,6,North America,SME Business Loan,Mobile App,Mass Affluent,155,133369.36
+2024-07-01,2024,7,North America,SME Business Loan,Web Platform,Retail,141,127690.16
+2024-08-01,2024,8,North America,SME Business Loan,Web Platform,Private/HNW,128,109417.04
+2024-09-01,2024,9,North America,SME Business Loan,Partner/Broker,Retail,135,116671.1
+2024-10-01,2024,10,North America,SME Business Loan,Partner/Broker,Retail,158,124736.52
+2024-11-01,2024,11,North America,SME Business Loan,Mobile App,Retail,139,122002.13
+2024-12-01,2024,12,North America,SME Business Loan,Mobile App,SME,149,138316.27
+2025-01-01,2025,1,North America,SME Business Loan,Web Platform,Private/HNW,143,126048.01
+2025-02-01,2025,2,North America,SME Business Loan,Web Platform,Retail,136,121963.16
+2025-03-01,2025,3,North America,SME Business Loan,Mobile App,SME,159,134839.2
+2025-04-01,2025,4,North America,SME Business Loan,Partner/Broker,Retail,159,146627.67
+2025-05-01,2025,5,North America,SME Business Loan,Mobile App,Retail,143,123996.57
+2025-06-01,2025,6,North America,SME Business Loan,Mobile App,Mass Affluent,146,130742.22
+2025-07-01,2025,7,North America,SME Business Loan,Mobile App,Mass Affluent,144,132080.14
+2025-08-01,2025,8,North America,SME Business Loan,Web Platform,Mass Affluent,136,124544.7
+2025-09-01,2025,9,North America,SME Business Loan,Partner/Broker,Retail,139,125030.04
+2025-10-01,2025,10,North America,SME Business Loan,Mobile App,Mass Affluent,176,144883.69
+2025-11-01,2025,11,North America,SME Business Loan,Mobile App,Retail,148,134344.91
+2025-12-01,2025,12,North America,SME Business Loan,Web Platform,Mass Affluent,144,129682.26
+2023-01-01,2023,1,North America,Robo-Advisory Investment,Mobile App,Retail,464,90504.97
+2023-02-01,2023,2,North America,Robo-Advisory Investment,Mobile App,Retail,569,118297.56
+2023-03-01,2023,3,North America,Robo-Advisory Investment,Web Platform,Retail,333,68990.58
+2023-04-01,2023,4,North America,Robo-Advisory Investment,Partner/Broker,SME,346,70385.5
+2023-05-01,2023,5,North America,Robo-Advisory Investment,Partner/Broker,Mass Affluent,412,84831.75
+2023-06-01,2023,6,North America,Robo-Advisory Investment,Mobile App,Retail,393,83374.13
+2023-07-01,2023,7,North America,Robo-Advisory Investment,Web Platform,Mass Affluent,386,77222.5
+2023-08-01,2023,8,North America,Robo-Advisory Investment,Mobile App,Retail,353,73176.29
+2023-09-01,2023,9,North America,Robo-Advisory Investment,Mobile App,Private/HNW,419,82906.19
+2023-10-01,2023,10,North America,Robo-Advisory Investment,Partner/Broker,Retail,335,71301.28
+2023-11-01,2023,11,North America,Robo-Advisory Investment,Mobile App,SME,412,85893.43
+2023-12-01,2023,12,North America,Robo-Advisory Investment,Web Platform,Retail,404,82020.73
+2024-01-01,2024,1,North America,Robo-Advisory Investment,Web Platform,Retail,595,115243.98
+2024-02-01,2024,2,North America,Robo-Advisory Investment,Mobile App,Retail,625,127753.71
+2024-03-01,2024,3,North America,Robo-Advisory Investment,Web Platform,Mass Affluent,499,106781.52
+2024-04-01,2024,4,North America,Robo-Advisory Investment,Partner/Broker,Retail,451,97013.66
+2024-05-01,2024,5,North America,Robo-Advisory Investment,Mobile App,Retail,427,94320.56
+2024-06-01,2024,6,North America,Robo-Advisory Investment,Mobile App,SME,452,99778.56
+2024-07-01,2024,7,North America,Robo-Advisory Investment,Web Platform,SME,430,88500.41
+2024-08-01,2024,8,North America,Robo-Advisory Investment,Partner/Broker,Retail,483,102653.43
+2024-09-01,2024,9,North America,Robo-Advisory Investment,Partner/Broker,Retail,502,107874.01
+2024-10-01,2024,10,North America,Robo-Advisory Investment,Mobile App,Retail,435,94143.63
+2024-11-01,2024,11,North America,Robo-Advisory Investment,Web Platform,SME,474,100885.5
+2024-12-01,2024,12,North America,Robo-Advisory Investment,Web Platform,Retail,459,91994.85
+2025-01-01,2025,1,North America,Robo-Advisory Investment,Web Platform,SME,673,134678.22
+2025-02-01,2025,2,North America,Robo-Advisory Investment,Partner/Broker,SME,641,143539.62
+2025-03-01,2025,3,North America,Robo-Advisory Investment,Web Platform,Retail,465,101396.52
+2025-04-01,2025,4,North America,Robo-Advisory Investment,Web Platform,Mass Affluent,461,96304.42
+2025-05-01,2025,5,North America,Robo-Advisory Investment,Mobile App,Retail,481,103950.52
+2025-06-01,2025,6,North America,Robo-Advisory Investment,Branch (Assisted),Retail,521,103348.66
+2025-07-01,2025,7,North America,Robo-Advisory Investment,Web Platform,Retail,517,111484.02
+2025-08-01,2025,8,North America,Robo-Advisory Investment,Mobile App,Retail,447,99274.37
+2025-09-01,2025,9,North America,Robo-Advisory Investment,Mobile App,SME,554,115675.74
+2025-10-01,2025,10,North America,Robo-Advisory Investment,Partner/Broker,Retail,488,96772.04
+2025-11-01,2025,11,North America,Robo-Advisory Investment,Mobile App,Retail,526,114367.09
+2025-12-01,2025,12,North America,Robo-Advisory Investment,Web Platform,Private/HNW,503,108049.24
+2023-01-01,2023,1,North America,Fixed Deposit / Savings Plan,Partner/Broker,Retail,652,61564.9
+2023-02-01,2023,2,North America,Fixed Deposit / Savings Plan,Web Platform,SME,598,57225.12
+2023-03-01,2023,3,North America,Fixed Deposit / Savings Plan,Web Platform,SME,671,62198.08
+2023-04-01,2023,4,North America,Fixed Deposit / Savings Plan,Web Platform,SME,583,53050.31
+2023-05-01,2023,5,North America,Fixed Deposit / Savings Plan,Web Platform,Private/HNW,635,57232.12
+2023-06-01,2023,6,North America,Fixed Deposit / Savings Plan,Web Platform,Retail,620,55385.96
+2023-07-01,2023,7,North America,Fixed Deposit / Savings Plan,Mobile App,Retail,680,64789.0
+2023-08-01,2023,8,North America,Fixed Deposit / Savings Plan,Branch (Assisted),SME,673,61294.4
+2023-09-01,2023,9,North America,Fixed Deposit / Savings Plan,Web Platform,Mass Affluent,641,58403.0
+2023-10-01,2023,10,North America,Fixed Deposit / Savings Plan,Partner/Broker,Retail,650,54339.22
+2023-11-01,2023,11,North America,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,690,67199.6
+2023-12-01,2023,12,North America,Fixed Deposit / Savings Plan,Mobile App,SME,664,61962.46
+2024-01-01,2024,1,North America,Fixed Deposit / Savings Plan,Mobile App,SME,702,64220.48
+2024-02-01,2024,2,North America,Fixed Deposit / Savings Plan,Branch (Assisted),Retail,737,68624.09
+2024-03-01,2024,3,North America,Fixed Deposit / Savings Plan,Partner/Broker,Retail,790,69955.65
+2024-04-01,2024,4,North America,Fixed Deposit / Savings Plan,Partner/Broker,Retail,790,76725.58
+2024-05-01,2024,5,North America,Fixed Deposit / Savings Plan,Mobile App,Retail,751,75036.21
+2024-06-01,2024,6,North America,Fixed Deposit / Savings Plan,Partner/Broker,SME,821,84747.1
+2024-07-01,2024,7,North America,Fixed Deposit / Savings Plan,Partner/Broker,Retail,727,65404.09
+2024-08-01,2024,8,North America,Fixed Deposit / Savings Plan,Web Platform,Retail,651,60619.66
+2024-09-01,2024,9,North America,Fixed Deposit / Savings Plan,Partner/Broker,Retail,827,74659.59
+2024-10-01,2024,10,North America,Fixed Deposit / Savings Plan,Mobile App,Retail,776,70065.71
+2024-11-01,2024,11,North America,Fixed Deposit / Savings Plan,Mobile App,Retail,839,77326.21
+2024-12-01,2024,12,North America,Fixed Deposit / Savings Plan,Mobile App,Retail,866,85123.22
+2025-01-01,2025,1,North America,Fixed Deposit / Savings Plan,Mobile App,SME,858,81997.19
+2025-02-01,2025,2,North America,Fixed Deposit / Savings Plan,Web Platform,Retail,875,80214.54
+2025-03-01,2025,3,North America,Fixed Deposit / Savings Plan,Mobile App,Retail,853,87832.62
+2025-04-01,2025,4,North America,Fixed Deposit / Savings Plan,Mobile App,Retail,976,93314.29
+2025-05-01,2025,5,North America,Fixed Deposit / Savings Plan,Mobile App,Retail,776,78080.31
+2025-06-01,2025,6,North America,Fixed Deposit / Savings Plan,Partner/Broker,Retail,818,82583.55
+2025-07-01,2025,7,North America,Fixed Deposit / Savings Plan,Web Platform,Retail,881,84496.01
+2025-08-01,2025,8,North America,Fixed Deposit / Savings Plan,Mobile App,Retail,984,93284.87
+2025-09-01,2025,9,North America,Fixed Deposit / Savings Plan,Web Platform,Retail,895,84099.98
+2025-10-01,2025,10,North America,Fixed Deposit / Savings Plan,Mobile App,Private/HNW,786,77004.14
+2025-11-01,2025,11,North America,Fixed Deposit / Savings Plan,Web Platform,Retail,918,90440.76
+2025-12-01,2025,12,North America,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,915,83968.74
+2023-01-01,2023,1,North America,Wealth Management (HNW),Mobile App,Retail,15,47813.53
+2023-02-01,2023,2,North America,Wealth Management (HNW),Partner/Broker,Retail,16,55377.65
+2023-03-01,2023,3,North America,Wealth Management (HNW),Partner/Broker,Retail,17,56866.19
+2023-04-01,2023,4,North America,Wealth Management (HNW),Web Platform,Private/HNW,16,53295.95
+2023-05-01,2023,5,North America,Wealth Management (HNW),Mobile App,SME,16,56238.55
+2023-06-01,2023,6,North America,Wealth Management (HNW),Web Platform,Private/HNW,15,51892.44
+2023-07-01,2023,7,North America,Wealth Management (HNW),Partner/Broker,Retail,17,55872.98
+2023-08-01,2023,8,North America,Wealth Management (HNW),Partner/Broker,Retail,17,57465.43
+2023-09-01,2023,9,North America,Wealth Management (HNW),Partner/Broker,SME,18,59358.1
+2023-10-01,2023,10,North America,Wealth Management (HNW),Mobile App,Retail,19,64262.41
+2023-11-01,2023,11,North America,Wealth Management (HNW),Mobile App,Retail,19,59081.11
+2023-12-01,2023,12,North America,Wealth Management (HNW),Mobile App,Retail,19,64598.42
+2024-01-01,2024,1,North America,Wealth Management (HNW),Mobile App,SME,17,58046.48
+2024-02-01,2024,2,North America,Wealth Management (HNW),Mobile App,SME,18,60685.6
+2024-03-01,2024,3,North America,Wealth Management (HNW),Mobile App,Mass Affluent,19,68782.38
+2024-04-01,2024,4,North America,Wealth Management (HNW),Mobile App,Mass Affluent,20,65954.49
+2024-05-01,2024,5,North America,Wealth Management (HNW),Web Platform,SME,19,68615.63
+2024-06-01,2024,6,North America,Wealth Management (HNW),Web Platform,Retail,20,73300.23
+2024-07-01,2024,7,North America,Wealth Management (HNW),Web Platform,Private/HNW,22,73326.38
+2024-08-01,2024,8,North America,Wealth Management (HNW),Partner/Broker,Retail,17,58600.23
+2024-09-01,2024,9,North America,Wealth Management (HNW),Partner/Broker,Retail,23,80339.21
+2024-10-01,2024,10,North America,Wealth Management (HNW),Mobile App,Retail,21,74321.63
+2024-11-01,2024,11,North America,Wealth Management (HNW),Branch (Assisted),Retail,17,59203.58
+2024-12-01,2024,12,North America,Wealth Management (HNW),Web Platform,Retail,21,69571.77
+2025-01-01,2025,1,North America,Wealth Management (HNW),Mobile App,Retail,20,66443.64
+2025-02-01,2025,2,North America,Wealth Management (HNW),Partner/Broker,Retail,20,67125.79
+2025-03-01,2025,3,North America,Wealth Management (HNW),Partner/Broker,Retail,22,72350.98
+2025-04-01,2025,4,North America,Wealth Management (HNW),Web Platform,SME,22,75683.19
+2025-05-01,2025,5,North America,Wealth Management (HNW),Mobile App,Mass Affluent,20,65971.77
+2025-06-01,2025,6,North America,Wealth Management (HNW),Mobile App,Retail,19,65878.77
+2025-07-01,2025,7,North America,Wealth Management (HNW),Mobile App,Retail,21,73374.51
+2025-08-01,2025,8,North America,Wealth Management (HNW),Web Platform,Retail,25,81443.35
+2025-09-01,2025,9,North America,Wealth Management (HNW),Mobile App,Retail,22,73173.93
+2025-10-01,2025,10,North America,Wealth Management (HNW),Mobile App,Mass Affluent,25,87561.77
+2025-11-01,2025,11,North America,Wealth Management (HNW),Web Platform,SME,21,72208.12
+2025-12-01,2025,12,North America,Wealth Management (HNW),Web Platform,Retail,23,80710.34
+2023-01-01,2023,1,Europe,Personal Loan,Mobile App,Mass Affluent,379,54261.63
+2023-02-01,2023,2,Europe,Personal Loan,Web Platform,Mass Affluent,449,70010.46
+2023-03-01,2023,3,Europe,Personal Loan,Web Platform,Retail,501,70748.5
+2023-04-01,2023,4,Europe,Personal Loan,Partner/Broker,Mass Affluent,554,80918.14
+2023-05-01,2023,5,Europe,Personal Loan,Partner/Broker,Mass Affluent,427,60076.48
+2023-06-01,2023,6,Europe,Personal Loan,Mobile App,Retail,495,74782.46
+2023-07-01,2023,7,Europe,Personal Loan,Web Platform,SME,376,54592.03
+2023-08-01,2023,8,Europe,Personal Loan,Web Platform,Mass Affluent,431,65214.37
+2023-09-01,2023,9,Europe,Personal Loan,Web Platform,Retail,460,66382.36
+2023-10-01,2023,10,Europe,Personal Loan,Partner/Broker,Retail,512,72636.52
+2023-11-01,2023,11,Europe,Personal Loan,Web Platform,SME,453,64423.71
+2023-12-01,2023,12,Europe,Personal Loan,Partner/Broker,Mass Affluent,481,68169.95
+2024-01-01,2024,1,Europe,Personal Loan,Web Platform,Mass Affluent,485,73557.61
+2024-02-01,2024,2,Europe,Personal Loan,Partner/Broker,Mass Affluent,485,67103.9
+2024-03-01,2024,3,Europe,Personal Loan,Branch (Assisted),Mass Affluent,561,78827.38
+2024-04-01,2024,4,Europe,Personal Loan,Partner/Broker,Mass Affluent,580,80017.94
+2024-05-01,2024,5,Europe,Personal Loan,Mobile App,Retail,434,63049.74
+2024-06-01,2024,6,Europe,Personal Loan,Web Platform,Mass Affluent,513,77546.69
+2024-07-01,2024,7,Europe,Personal Loan,Web Platform,SME,417,59519.66
+2024-08-01,2024,8,Europe,Personal Loan,Mobile App,SME,480,74014.79
+2024-09-01,2024,9,Europe,Personal Loan,Web Platform,SME,475,67683.06
+2024-10-01,2024,10,Europe,Personal Loan,Mobile App,Private/HNW,460,66803.15
+2024-11-01,2024,11,Europe,Personal Loan,Mobile App,Retail,511,72647.31
+2024-12-01,2024,12,Europe,Personal Loan,Web Platform,Mass Affluent,528,73775.92
+2025-01-01,2025,1,Europe,Personal Loan,Mobile App,Retail,526,80983.6
+2025-02-01,2025,2,Europe,Personal Loan,Mobile App,Private/HNW,517,71871.53
+2025-03-01,2025,3,Europe,Personal Loan,Mobile App,SME,593,85594.71
+2025-04-01,2025,4,Europe,Personal Loan,Mobile App,SME,614,91104.07
+2025-05-01,2025,5,Europe,Personal Loan,Mobile App,Retail,564,84658.46
+2025-06-01,2025,6,Europe,Personal Loan,Partner/Broker,SME,531,75706.47
+2025-07-01,2025,7,Europe,Personal Loan,Partner/Broker,SME,452,65964.2
+2025-08-01,2025,8,Europe,Personal Loan,Mobile App,Mass Affluent,535,82833.03
+2025-09-01,2025,9,Europe,Personal Loan,Mobile App,SME,624,92788.46
+2025-10-01,2025,10,Europe,Personal Loan,Mobile App,Retail,562,78970.08
+2025-11-01,2025,11,Europe,Personal Loan,Partner/Broker,Retail,513,70432.35
+2025-12-01,2025,12,Europe,Personal Loan,Mobile App,Retail,514,74715.44
+2023-01-01,2023,1,Europe,Credit Card,Mobile App,Retail,803,49572.23
+2023-02-01,2023,2,Europe,Credit Card,Branch (Assisted),Retail,722,48078.06
+2023-03-01,2023,3,Europe,Credit Card,Mobile App,SME,887,59421.38
+2023-04-01,2023,4,Europe,Credit Card,Mobile App,Retail,973,62039.71
+2023-05-01,2023,5,Europe,Credit Card,Mobile App,SME,958,64033.96
+2023-06-01,2023,6,Europe,Credit Card,Mobile App,Private/HNW,952,63188.44
+2023-07-01,2023,7,Europe,Credit Card,Web Platform,Mass Affluent,1084,63599.76
+2023-08-01,2023,8,Europe,Credit Card,Web Platform,Retail,1119,71505.79
+2023-09-01,2023,9,Europe,Credit Card,Web Platform,Retail,1098,71457.38
+2023-10-01,2023,10,Europe,Credit Card,Mobile App,Retail,882,55090.97
+2023-11-01,2023,11,Europe,Credit Card,Web Platform,Retail,1238,77296.76
+2023-12-01,2023,12,Europe,Credit Card,Partner/Broker,Retail,1348,82431.48
+2024-01-01,2024,1,Europe,Credit Card,Partner/Broker,SME,945,61755.84
+2024-02-01,2024,2,Europe,Credit Card,Mobile App,Retail,980,68022.56
+2024-03-01,2024,3,Europe,Credit Card,Mobile App,Mass Affluent,1171,80867.84
+2024-04-01,2024,4,Europe,Credit Card,Mobile App,Mass Affluent,1185,69804.49
+2024-05-01,2024,5,Europe,Credit Card,Web Platform,Mass Affluent,1044,59023.23
+2024-06-01,2024,6,Europe,Credit Card,Web Platform,Mass Affluent,1074,69425.5
+2024-07-01,2024,7,Europe,Credit Card,Partner/Broker,Mass Affluent,1166,77468.29
+2024-08-01,2024,8,Europe,Credit Card,Partner/Broker,Mass Affluent,1094,67999.01
+2024-09-01,2024,9,Europe,Credit Card,Mobile App,SME,1080,72251.83
+2024-10-01,2024,10,Europe,Credit Card,Mobile App,Retail,1179,72706.6
+2024-11-01,2024,11,Europe,Credit Card,Mobile App,Retail,1387,91317.33
+2024-12-01,2024,12,Europe,Credit Card,Web Platform,Retail,1535,101171.25
+2025-01-01,2025,1,Europe,Credit Card,Web Platform,Retail,916,60135.84
+2025-02-01,2025,2,Europe,Credit Card,Web Platform,Private/HNW,1050,71563.84
+2025-03-01,2025,3,Europe,Credit Card,Branch (Assisted),Retail,1081,69479.54
+2025-04-01,2025,4,Europe,Credit Card,Mobile App,SME,1263,81788.39
+2025-05-01,2025,5,Europe,Credit Card,Mobile App,SME,1283,86821.69
+2025-06-01,2025,6,Europe,Credit Card,Branch (Assisted),Private/HNW,1148,75071.48
+2025-07-01,2025,7,Europe,Credit Card,Branch (Assisted),Retail,1196,77414.18
+2025-08-01,2025,8,Europe,Credit Card,Mobile App,SME,1159,75914.95
+2025-09-01,2025,9,Europe,Credit Card,Mobile App,Retail,1057,64459.38
+2025-10-01,2025,10,Europe,Credit Card,Web Platform,Private/HNW,1130,68337.12
+2025-11-01,2025,11,Europe,Credit Card,Partner/Broker,Mass Affluent,1593,100722.18
+2025-12-01,2025,12,Europe,Credit Card,Mobile App,Private/HNW,1680,106015.66
+2023-01-01,2023,1,Europe,Mortgage,Web Platform,Retail,50,58828.62
+2023-02-01,2023,2,Europe,Mortgage,Mobile App,SME,58,69013.35
+2023-03-01,2023,3,Europe,Mortgage,Web Platform,SME,70,82093.95
+2023-04-01,2023,4,Europe,Mortgage,Web Platform,SME,80,101743.14
+2023-05-01,2023,5,Europe,Mortgage,Mobile App,SME,66,86440.94
+2023-06-01,2023,6,Europe,Mortgage,Partner/Broker,Mass Affluent,86,102292.24
+2023-07-01,2023,7,Europe,Mortgage,Mobile App,Retail,59,75660.32
+2023-08-01,2023,8,Europe,Mortgage,Mobile App,Private/HNW,58,73054.43
+2023-09-01,2023,9,Europe,Mortgage,Web Platform,SME,61,75692.87
+2023-10-01,2023,10,Europe,Mortgage,Web Platform,Retail,58,72160.03
+2023-11-01,2023,11,Europe,Mortgage,Mobile App,SME,65,81526.19
+2023-12-01,2023,12,Europe,Mortgage,Mobile App,Retail,54,70354.87
+2024-01-01,2024,1,Europe,Mortgage,Partner/Broker,Retail,50,62354.0
+2024-02-01,2024,2,Europe,Mortgage,Mobile App,Retail,71,86158.33
+2024-03-01,2024,3,Europe,Mortgage,Partner/Broker,SME,61,76295.82
+2024-04-01,2024,4,Europe,Mortgage,Mobile App,Mass Affluent,84,99317.63
+2024-05-01,2024,5,Europe,Mortgage,Partner/Broker,Mass Affluent,90,113220.56
+2024-06-01,2024,6,Europe,Mortgage,Mobile App,Mass Affluent,94,115341.95
+2024-07-01,2024,7,Europe,Mortgage,Mobile App,SME,68,91326.01
+2024-08-01,2024,8,Europe,Mortgage,Mobile App,Retail,77,100100.36
+2024-09-01,2024,9,Europe,Mortgage,Mobile App,Mass Affluent,75,94489.53
+2024-10-01,2024,10,Europe,Mortgage,Mobile App,Retail,66,87548.98
+2024-11-01,2024,11,Europe,Mortgage,Mobile App,Mass Affluent,67,89988.85
+2024-12-01,2024,12,Europe,Mortgage,Mobile App,SME,56,71429.26
+2025-01-01,2025,1,Europe,Mortgage,Mobile App,Retail,61,75585.02
+2025-02-01,2025,2,Europe,Mortgage,Branch (Assisted),SME,76,101682.04
+2025-03-01,2025,3,Europe,Mortgage,Mobile App,SME,67,85396.0
+2025-04-01,2025,4,Europe,Mortgage,Web Platform,Retail,90,116058.59
+2025-05-01,2025,5,Europe,Mortgage,Branch (Assisted),Private/HNW,99,115381.72
+2025-06-01,2025,6,Europe,Mortgage,Mobile App,SME,92,115252.26
+2025-07-01,2025,7,Europe,Mortgage,Web Platform,SME,81,102487.98
+2025-08-01,2025,8,Europe,Mortgage,Mobile App,Retail,77,98120.13
+2025-09-01,2025,9,Europe,Mortgage,Mobile App,SME,69,85049.37
+2025-10-01,2025,10,Europe,Mortgage,Web Platform,Retail,74,87611.44
+2025-11-01,2025,11,Europe,Mortgage,Mobile App,SME,77,102545.34
+2025-12-01,2025,12,Europe,Mortgage,Mobile App,Private/HNW,52,70382.23
+2023-01-01,2023,1,Europe,SME Business Loan,Web Platform,Mass Affluent,92,78131.38
+2023-02-01,2023,2,Europe,SME Business Loan,Web Platform,Private/HNW,91,79869.36
+2023-03-01,2023,3,Europe,SME Business Loan,Mobile App,SME,102,89496.5
+2023-04-01,2023,4,Europe,SME Business Loan,Partner/Broker,SME,94,85669.95
+2023-05-01,2023,5,Europe,SME Business Loan,Web Platform,Retail,96,85103.93
+2023-06-01,2023,6,Europe,SME Business Loan,Mobile App,Retail,87,78055.81
+2023-07-01,2023,7,Europe,SME Business Loan,Mobile App,SME,92,82984.98
+2023-08-01,2023,8,Europe,SME Business Loan,Mobile App,Mass Affluent,98,81091.19
+2023-09-01,2023,9,Europe,SME Business Loan,Branch (Assisted),Retail,88,76120.99
+2023-10-01,2023,10,Europe,SME Business Loan,Mobile App,SME,112,105611.18
+2023-11-01,2023,11,Europe,SME Business Loan,Mobile App,Retail,101,95767.91
+2023-12-01,2023,12,Europe,SME Business Loan,Web Platform,Mass Affluent,95,80613.1
+2024-01-01,2024,1,Europe,SME Business Loan,Web Platform,SME,107,97438.03
+2024-02-01,2024,2,Europe,SME Business Loan,Web Platform,Retail,104,91298.06
+2024-03-01,2024,3,Europe,SME Business Loan,Web Platform,Retail,100,83679.21
+2024-04-01,2024,4,Europe,SME Business Loan,Mobile App,Retail,113,104607.87
+2024-05-01,2024,5,Europe,SME Business Loan,Branch (Assisted),Retail,103,87227.97
+2024-06-01,2024,6,Europe,SME Business Loan,Mobile App,Retail,107,89084.48
+2024-07-01,2024,7,Europe,SME Business Loan,Web Platform,Retail,97,90770.36
+2024-08-01,2024,8,Europe,SME Business Loan,Web Platform,Retail,114,100152.99
+2024-09-01,2024,9,Europe,SME Business Loan,Mobile App,SME,101,89257.92
+2024-10-01,2024,10,Europe,SME Business Loan,Mobile App,Retail,108,94934.21
+2024-11-01,2024,11,Europe,SME Business Loan,Mobile App,Retail,100,88321.53
+2024-12-01,2024,12,Europe,SME Business Loan,Mobile App,Private/HNW,109,95912.05
+2025-01-01,2025,1,Europe,SME Business Loan,Partner/Broker,Mass Affluent,107,87376.63
+2025-02-01,2025,2,Europe,SME Business Loan,Web Platform,Retail,119,107286.14
+2025-03-01,2025,3,Europe,SME Business Loan,Partner/Broker,Retail,105,101626.94
+2025-04-01,2025,4,Europe,SME Business Loan,Mobile App,Mass Affluent,100,84800.53
+2025-05-01,2025,5,Europe,SME Business Loan,Web Platform,Mass Affluent,111,101566.08
+2025-06-01,2025,6,Europe,SME Business Loan,Web Platform,Retail,99,92097.48
+2025-07-01,2025,7,Europe,SME Business Loan,Mobile App,SME,135,124120.62
+2025-08-01,2025,8,Europe,SME Business Loan,Mobile App,SME,142,127481.29
+2025-09-01,2025,9,Europe,SME Business Loan,Web Platform,Retail,118,100034.25
+2025-10-01,2025,10,Europe,SME Business Loan,Mobile App,Mass Affluent,122,114642.44
+2025-11-01,2025,11,Europe,SME Business Loan,Web Platform,Retail,125,112334.6
+2025-12-01,2025,12,Europe,SME Business Loan,Web Platform,Retail,116,108146.82
+2023-01-01,2023,1,Europe,Robo-Advisory Investment,Web Platform,Retail,448,93473.96
+2023-02-01,2023,2,Europe,Robo-Advisory Investment,Mobile App,Private/HNW,384,77185.94
+2023-03-01,2023,3,Europe,Robo-Advisory Investment,Web Platform,Mass Affluent,311,69856.24
+2023-04-01,2023,4,Europe,Robo-Advisory Investment,Web Platform,Retail,281,57017.36
+2023-05-01,2023,5,Europe,Robo-Advisory Investment,Web Platform,Retail,330,71495.76
+2023-06-01,2023,6,Europe,Robo-Advisory Investment,Partner/Broker,Retail,363,76740.74
+2023-07-01,2023,7,Europe,Robo-Advisory Investment,Mobile App,Retail,337,71012.25
+2023-08-01,2023,8,Europe,Robo-Advisory Investment,Web Platform,SME,328,67380.75
+2023-09-01,2023,9,Europe,Robo-Advisory Investment,Web Platform,SME,356,80839.25
+2023-10-01,2023,10,Europe,Robo-Advisory Investment,Web Platform,SME,340,70863.13
+2023-11-01,2023,11,Europe,Robo-Advisory Investment,Branch (Assisted),SME,316,64064.01
+2023-12-01,2023,12,Europe,Robo-Advisory Investment,Partner/Broker,Private/HNW,362,75348.7
+2024-01-01,2024,1,Europe,Robo-Advisory Investment,Web Platform,Mass Affluent,407,86573.09
+2024-02-01,2024,2,Europe,Robo-Advisory Investment,Web Platform,Mass Affluent,470,100936.98
+2024-03-01,2024,3,Europe,Robo-Advisory Investment,Mobile App,Retail,303,62203.5
+2024-04-01,2024,4,Europe,Robo-Advisory Investment,Web Platform,Mass Affluent,365,74306.96
+2024-05-01,2024,5,Europe,Robo-Advisory Investment,Mobile App,Retail,338,75609.37
+2024-06-01,2024,6,Europe,Robo-Advisory Investment,Mobile App,Retail,357,77492.37
+2024-07-01,2024,7,Europe,Robo-Advisory Investment,Partner/Broker,Mass Affluent,371,79795.69
+2024-08-01,2024,8,Europe,Robo-Advisory Investment,Mobile App,SME,413,85968.19
+2024-09-01,2024,9,Europe,Robo-Advisory Investment,Mobile App,SME,314,66140.01
+2024-10-01,2024,10,Europe,Robo-Advisory Investment,Mobile App,Mass Affluent,340,68044.55
+2024-11-01,2024,11,Europe,Robo-Advisory Investment,Mobile App,SME,378,76635.35
+2024-12-01,2024,12,Europe,Robo-Advisory Investment,Mobile App,SME,296,62353.66
+2025-01-01,2025,1,Europe,Robo-Advisory Investment,Mobile App,Retail,506,104421.66
+2025-02-01,2025,2,Europe,Robo-Advisory Investment,Mobile App,Retail,437,92689.95
+2025-03-01,2025,3,Europe,Robo-Advisory Investment,Partner/Broker,Retail,407,81156.61
+2025-04-01,2025,4,Europe,Robo-Advisory Investment,Partner/Broker,Retail,378,77733.41
+2025-05-01,2025,5,Europe,Robo-Advisory Investment,Branch (Assisted),Retail,349,73811.44
+2025-06-01,2025,6,Europe,Robo-Advisory Investment,Mobile App,Retail,333,72942.71
+2025-07-01,2025,7,Europe,Robo-Advisory Investment,Mobile App,Retail,370,79697.17
+2025-08-01,2025,8,Europe,Robo-Advisory Investment,Mobile App,Private/HNW,367,74127.87
+2025-09-01,2025,9,Europe,Robo-Advisory Investment,Partner/Broker,Retail,376,81006.29
+2025-10-01,2025,10,Europe,Robo-Advisory Investment,Mobile App,Retail,424,89765.12
+2025-11-01,2025,11,Europe,Robo-Advisory Investment,Branch (Assisted),Retail,412,90452.34
+2025-12-01,2025,12,Europe,Robo-Advisory Investment,Web Platform,Retail,385,80444.08
+2023-01-01,2023,1,Europe,Fixed Deposit / Savings Plan,Mobile App,SME,581,48779.73
+2023-02-01,2023,2,Europe,Fixed Deposit / Savings Plan,Branch (Assisted),Mass Affluent,443,42613.01
+2023-03-01,2023,3,Europe,Fixed Deposit / Savings Plan,Mobile App,Retail,544,52443.51
+2023-04-01,2023,4,Europe,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,491,50632.48
+2023-05-01,2023,5,Europe,Fixed Deposit / Savings Plan,Web Platform,SME,560,52469.9
+2023-06-01,2023,6,Europe,Fixed Deposit / Savings Plan,Web Platform,Retail,596,59254.47
+2023-07-01,2023,7,Europe,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,547,52558.41
+2023-08-01,2023,8,Europe,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,581,56879.26
+2023-09-01,2023,9,Europe,Fixed Deposit / Savings Plan,Mobile App,Retail,569,55124.51
+2023-10-01,2023,10,Europe,Fixed Deposit / Savings Plan,Mobile App,Private/HNW,522,50326.11
+2023-11-01,2023,11,Europe,Fixed Deposit / Savings Plan,Mobile App,Retail,752,72191.06
+2023-12-01,2023,12,Europe,Fixed Deposit / Savings Plan,Branch (Assisted),Private/HNW,629,61461.37
+2024-01-01,2024,1,Europe,Fixed Deposit / Savings Plan,Branch (Assisted),Retail,533,52694.88
+2024-02-01,2024,2,Europe,Fixed Deposit / Savings Plan,Mobile App,SME,497,44278.76
+2024-03-01,2024,3,Europe,Fixed Deposit / Savings Plan,Branch (Assisted),SME,614,59118.96
+2024-04-01,2024,4,Europe,Fixed Deposit / Savings Plan,Web Platform,Retail,612,59180.47
+2024-05-01,2024,5,Europe,Fixed Deposit / Savings Plan,Partner/Broker,Mass Affluent,745,73993.55
+2024-06-01,2024,6,Europe,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,573,54928.85
+2024-07-01,2024,7,Europe,Fixed Deposit / Savings Plan,Mobile App,Retail,600,59157.07
+2024-08-01,2024,8,Europe,Fixed Deposit / Savings Plan,Partner/Broker,Retail,571,49117.67
+2024-09-01,2024,9,Europe,Fixed Deposit / Savings Plan,Mobile App,Retail,743,73480.07
+2024-10-01,2024,10,Europe,Fixed Deposit / Savings Plan,Mobile App,Retail,578,54499.82
+2024-11-01,2024,11,Europe,Fixed Deposit / Savings Plan,Branch (Assisted),Retail,652,62424.79
+2024-12-01,2024,12,Europe,Fixed Deposit / Savings Plan,Partner/Broker,Retail,737,70342.85
+2025-01-01,2025,1,Europe,Fixed Deposit / Savings Plan,Mobile App,Retail,555,54314.41
+2025-02-01,2025,2,Europe,Fixed Deposit / Savings Plan,Partner/Broker,Retail,603,55413.62
+2025-03-01,2025,3,Europe,Fixed Deposit / Savings Plan,Mobile App,SME,609,60059.24
+2025-04-01,2025,4,Europe,Fixed Deposit / Savings Plan,Mobile App,Retail,700,64302.28
+2025-05-01,2025,5,Europe,Fixed Deposit / Savings Plan,Web Platform,Retail,618,60100.37
+2025-06-01,2025,6,Europe,Fixed Deposit / Savings Plan,Web Platform,Retail,673,62097.38
+2025-07-01,2025,7,Europe,Fixed Deposit / Savings Plan,Web Platform,Retail,558,48394.44
+2025-08-01,2025,8,Europe,Fixed Deposit / Savings Plan,Mobile App,SME,680,64656.16
+2025-09-01,2025,9,Europe,Fixed Deposit / Savings Plan,Mobile App,Retail,663,57498.81
+2025-10-01,2025,10,Europe,Fixed Deposit / Savings Plan,Partner/Broker,Mass Affluent,725,68850.9
+2025-11-01,2025,11,Europe,Fixed Deposit / Savings Plan,Partner/Broker,Mass Affluent,680,65630.6
+2025-12-01,2025,12,Europe,Fixed Deposit / Savings Plan,Web Platform,Retail,709,65767.89
+2023-01-01,2023,1,Europe,Wealth Management (HNW),Web Platform,Retail,16,56601.01
+2023-02-01,2023,2,Europe,Wealth Management (HNW),Partner/Broker,Retail,14,48765.55
+2023-03-01,2023,3,Europe,Wealth Management (HNW),Web Platform,SME,14,47867.43
+2023-04-01,2023,4,Europe,Wealth Management (HNW),Web Platform,Retail,16,52716.93
+2023-05-01,2023,5,Europe,Wealth Management (HNW),Mobile App,Mass Affluent,15,50574.56
+2023-06-01,2023,6,Europe,Wealth Management (HNW),Web Platform,Retail,16,56507.16
+2023-07-01,2023,7,Europe,Wealth Management (HNW),Branch (Assisted),Retail,14,49539.75
+2023-08-01,2023,8,Europe,Wealth Management (HNW),Web Platform,Retail,14,48192.36
+2023-09-01,2023,9,Europe,Wealth Management (HNW),Partner/Broker,Retail,13,44426.11
+2023-10-01,2023,10,Europe,Wealth Management (HNW),Mobile App,SME,15,48407.34
+2023-11-01,2023,11,Europe,Wealth Management (HNW),Mobile App,SME,15,49961.51
+2023-12-01,2023,12,Europe,Wealth Management (HNW),Web Platform,SME,14,43364.93
+2024-01-01,2024,1,Europe,Wealth Management (HNW),Mobile App,Retail,14,45401.02
+2024-02-01,2024,2,Europe,Wealth Management (HNW),Partner/Broker,Private/HNW,16,54782.78
+2024-03-01,2024,3,Europe,Wealth Management (HNW),Mobile App,Mass Affluent,16,53113.79
+2024-04-01,2024,4,Europe,Wealth Management (HNW),Branch (Assisted),Retail,15,53483.7
+2024-05-01,2024,5,Europe,Wealth Management (HNW),Partner/Broker,SME,13,45113.16
+2024-06-01,2024,6,Europe,Wealth Management (HNW),Partner/Broker,Retail,12,40835.86
+2024-07-01,2024,7,Europe,Wealth Management (HNW),Mobile App,Retail,15,51404.23
+2024-08-01,2024,8,Europe,Wealth Management (HNW),Mobile App,Retail,17,57869.94
+2024-09-01,2024,9,Europe,Wealth Management (HNW),Mobile App,Retail,16,54448.81
+2024-10-01,2024,10,Europe,Wealth Management (HNW),Mobile App,Private/HNW,18,56846.7
+2024-11-01,2024,11,Europe,Wealth Management (HNW),Mobile App,Retail,16,51508.95
+2024-12-01,2024,12,Europe,Wealth Management (HNW),Mobile App,Retail,16,52243.47
+2025-01-01,2025,1,Europe,Wealth Management (HNW),Partner/Broker,Retail,15,51570.29
+2025-02-01,2025,2,Europe,Wealth Management (HNW),Web Platform,Retail,18,61970.77
+2025-03-01,2025,3,Europe,Wealth Management (HNW),Branch (Assisted),Retail,17,55289.44
+2025-04-01,2025,4,Europe,Wealth Management (HNW),Branch (Assisted),Retail,16,56277.82
+2025-05-01,2025,5,Europe,Wealth Management (HNW),Mobile App,Retail,16,53247.86
+2025-06-01,2025,6,Europe,Wealth Management (HNW),Mobile App,SME,17,58595.17
+2025-07-01,2025,7,Europe,Wealth Management (HNW),Branch (Assisted),Retail,16,54257.57
+2025-08-01,2025,8,Europe,Wealth Management (HNW),Web Platform,Private/HNW,15,53037.77
+2025-09-01,2025,9,Europe,Wealth Management (HNW),Web Platform,Retail,16,56080.42
+2025-10-01,2025,10,Europe,Wealth Management (HNW),Mobile App,Mass Affluent,18,57427.22
+2025-11-01,2025,11,Europe,Wealth Management (HNW),Partner/Broker,Retail,17,57123.02
+2025-12-01,2025,12,Europe,Wealth Management (HNW),Web Platform,Private/HNW,19,65636.21
+2023-01-01,2023,1,MENA,Personal Loan,Web Platform,Retail,217,29695.96
+2023-02-01,2023,2,MENA,Personal Loan,Web Platform,Retail,251,38933.38
+2023-03-01,2023,3,MENA,Personal Loan,Mobile App,SME,294,41846.08
+2023-04-01,2023,4,MENA,Personal Loan,Partner/Broker,SME,299,42131.76
+2023-05-01,2023,5,MENA,Personal Loan,Mobile App,Retail,283,40075.24
+2023-06-01,2023,6,MENA,Personal Loan,Web Platform,Retail,238,35849.36
+2023-07-01,2023,7,MENA,Personal Loan,Partner/Broker,SME,209,29809.42
+2023-08-01,2023,8,MENA,Personal Loan,Web Platform,Retail,226,33176.56
+2023-09-01,2023,9,MENA,Personal Loan,Partner/Broker,SME,254,36006.03
+2023-10-01,2023,10,MENA,Personal Loan,Web Platform,Retail,241,35599.19
+2023-11-01,2023,11,MENA,Personal Loan,Partner/Broker,Retail,290,42201.22
+2023-12-01,2023,12,MENA,Personal Loan,Mobile App,Retail,285,41165.59
+2024-01-01,2024,1,MENA,Personal Loan,Partner/Broker,Retail,313,45759.11
+2024-02-01,2024,2,MENA,Personal Loan,Mobile App,SME,319,46023.78
+2024-03-01,2024,3,MENA,Personal Loan,Partner/Broker,Retail,494,69412.25
+2024-04-01,2024,4,MENA,Personal Loan,Mobile App,Retail,431,60346.09
+2024-05-01,2024,5,MENA,Personal Loan,Mobile App,Retail,278,37952.47
+2024-06-01,2024,6,MENA,Personal Loan,Mobile App,Mass Affluent,323,48642.99
+2024-07-01,2024,7,MENA,Personal Loan,Branch (Assisted),Retail,314,47017.09
+2024-08-01,2024,8,MENA,Personal Loan,Branch (Assisted),Retail,342,49143.93
+2024-09-01,2024,9,MENA,Personal Loan,Mobile App,SME,327,48710.79
+2024-10-01,2024,10,MENA,Personal Loan,Mobile App,Retail,411,63533.52
+2024-11-01,2024,11,MENA,Personal Loan,Mobile App,SME,346,49329.23
+2024-12-01,2024,12,MENA,Personal Loan,Mobile App,Retail,443,70075.88
+2025-01-01,2025,1,MENA,Personal Loan,Web Platform,Mass Affluent,373,54854.88
+2025-02-01,2025,2,MENA,Personal Loan,Partner/Broker,SME,380,50609.46
+2025-03-01,2025,3,MENA,Personal Loan,Mobile App,SME,481,70315.99
+2025-04-01,2025,4,MENA,Personal Loan,Mobile App,Retail,456,66837.28
+2025-05-01,2025,5,MENA,Personal Loan,Web Platform,Retail,364,55588.55
+2025-06-01,2025,6,MENA,Personal Loan,Partner/Broker,Retail,395,57978.03
+2025-07-01,2025,7,MENA,Personal Loan,Mobile App,Retail,361,48778.33
+2025-08-01,2025,8,MENA,Personal Loan,Web Platform,Retail,346,48636.71
+2025-09-01,2025,9,MENA,Personal Loan,Web Platform,SME,433,62634.64
+2025-10-01,2025,10,MENA,Personal Loan,Mobile App,Retail,470,69656.38
+2025-11-01,2025,11,MENA,Personal Loan,Mobile App,Retail,498,74966.61
+2025-12-01,2025,12,MENA,Personal Loan,Mobile App,Retail,364,52279.08
+2023-01-01,2023,1,MENA,Credit Card,Mobile App,Mass Affluent,486,30818.15
+2023-02-01,2023,2,MENA,Credit Card,Partner/Broker,Retail,436,29078.31
+2023-03-01,2023,3,MENA,Credit Card,Mobile App,Retail,509,32768.33
+2023-04-01,2023,4,MENA,Credit Card,Mobile App,Retail,585,38795.62
+2023-05-01,2023,5,MENA,Credit Card,Web Platform,Retail,680,42924.44
+2023-06-01,2023,6,MENA,Credit Card,Partner/Broker,SME,540,34475.84
+2023-07-01,2023,7,MENA,Credit Card,Mobile App,Mass Affluent,579,39534.17
+2023-08-01,2023,8,MENA,Credit Card,Mobile App,Retail,594,38116.04
+2023-09-01,2023,9,MENA,Credit Card,Web Platform,Retail,639,41871.08
+2023-10-01,2023,10,MENA,Credit Card,Partner/Broker,Retail,599,37910.72
+2023-11-01,2023,11,MENA,Credit Card,Web Platform,Mass Affluent,882,60053.25
+2023-12-01,2023,12,MENA,Credit Card,Branch (Assisted),SME,838,52580.2
+2024-01-01,2024,1,MENA,Credit Card,Partner/Broker,SME,638,39169.73
+2024-02-01,2024,2,MENA,Credit Card,Mobile App,Retail,692,45177.26
+2024-03-01,2024,3,MENA,Credit Card,Mobile App,Retail,651,40319.23
+2024-04-01,2024,4,MENA,Credit Card,Partner/Broker,Retail,622,40161.85
+2024-05-01,2024,5,MENA,Credit Card,Partner/Broker,Retail,747,49893.47
+2024-06-01,2024,6,MENA,Credit Card,Mobile App,Retail,803,48881.32
+2024-07-01,2024,7,MENA,Credit Card,Partner/Broker,Retail,696,45450.06
+2024-08-01,2024,8,MENA,Credit Card,Partner/Broker,Retail,898,59196.7
+2024-09-01,2024,9,MENA,Credit Card,Branch (Assisted),Retail,775,49950.88
+2024-10-01,2024,10,MENA,Credit Card,Branch (Assisted),Retail,757,50230.74
+2024-11-01,2024,11,MENA,Credit Card,Web Platform,SME,1087,73471.86
+2024-12-01,2024,12,MENA,Credit Card,Mobile App,Mass Affluent,1118,68574.85
+2025-01-01,2025,1,MENA,Credit Card,Mobile App,Retail,629,40312.48
+2025-02-01,2025,2,MENA,Credit Card,Web Platform,SME,722,44976.28
+2025-03-01,2025,3,MENA,Credit Card,Web Platform,Retail,877,57598.74
+2025-04-01,2025,4,MENA,Credit Card,Web Platform,Retail,861,53391.99
+2025-05-01,2025,5,MENA,Credit Card,Branch (Assisted),Retail,811,50064.0
+2025-06-01,2025,6,MENA,Credit Card,Branch (Assisted),Mass Affluent,973,63402.97
+2025-07-01,2025,7,MENA,Credit Card,Mobile App,Retail,902,60325.49
+2025-08-01,2025,8,MENA,Credit Card,Web Platform,SME,1007,61540.5
+2025-09-01,2025,9,MENA,Credit Card,Mobile App,Retail,1090,66609.85
+2025-10-01,2025,10,MENA,Credit Card,Web Platform,Retail,977,65977.74
+2025-11-01,2025,11,MENA,Credit Card,Mobile App,SME,1310,86782.18
+2025-12-01,2025,12,MENA,Credit Card,Mobile App,Mass Affluent,1715,111112.08
+2023-01-01,2023,1,MENA,Mortgage,Branch (Assisted),SME,29,34273.48
+2023-02-01,2023,2,MENA,Mortgage,Mobile App,SME,33,41339.61
+2023-03-01,2023,3,MENA,Mortgage,Mobile App,Retail,32,34998.01
+2023-04-01,2023,4,MENA,Mortgage,Branch (Assisted),Retail,45,58114.03
+2023-05-01,2023,5,MENA,Mortgage,Web Platform,Mass Affluent,55,70132.66
+2023-06-01,2023,6,MENA,Mortgage,Mobile App,Retail,50,63911.85
+2023-07-01,2023,7,MENA,Mortgage,Web Platform,SME,37,45605.64
+2023-08-01,2023,8,MENA,Mortgage,Web Platform,Retail,40,53183.38
+2023-09-01,2023,9,MENA,Mortgage,Partner/Broker,Mass Affluent,40,51014.3
+2023-10-01,2023,10,MENA,Mortgage,Web Platform,Retail,35,40500.42
+2023-11-01,2023,11,MENA,Mortgage,Web Platform,Retail,48,60497.61
+2023-12-01,2023,12,MENA,Mortgage,Mobile App,Retail,32,40260.49
+2024-01-01,2024,1,MENA,Mortgage,Partner/Broker,SME,32,41134.18
+2024-02-01,2024,2,MENA,Mortgage,Branch (Assisted),SME,40,52097.72
+2024-03-01,2024,3,MENA,Mortgage,Web Platform,Private/HNW,49,60949.95
+2024-04-01,2024,4,MENA,Mortgage,Partner/Broker,Retail,60,76955.96
+2024-05-01,2024,5,MENA,Mortgage,Branch (Assisted),SME,63,81364.01
+2024-06-01,2024,6,MENA,Mortgage,Web Platform,Retail,67,85592.41
+2024-07-01,2024,7,MENA,Mortgage,Mobile App,Retail,48,60973.66
+2024-08-01,2024,8,MENA,Mortgage,Web Platform,Retail,46,52551.33
+2024-09-01,2024,9,MENA,Mortgage,Partner/Broker,SME,52,65161.25
+2024-10-01,2024,10,MENA,Mortgage,Mobile App,Mass Affluent,55,68861.46
+2024-11-01,2024,11,MENA,Mortgage,Web Platform,Retail,49,64838.93
+2024-12-01,2024,12,MENA,Mortgage,Mobile App,Mass Affluent,43,49236.24
+2025-01-01,2025,1,MENA,Mortgage,Web Platform,Retail,44,54360.97
+2025-02-01,2025,2,MENA,Mortgage,Mobile App,Mass Affluent,56,72908.08
+2025-03-01,2025,3,MENA,Mortgage,Web Platform,SME,59,68908.25
+2025-04-01,2025,4,MENA,Mortgage,Partner/Broker,Retail,80,102112.09
+2025-05-01,2025,5,MENA,Mortgage,Mobile App,Retail,75,104716.16
+2025-06-01,2025,6,MENA,Mortgage,Mobile App,Retail,77,101959.93
+2025-07-01,2025,7,MENA,Mortgage,Partner/Broker,Retail,69,87528.99
+2025-08-01,2025,8,MENA,Mortgage,Partner/Broker,Mass Affluent,58,69223.72
+2025-09-01,2025,9,MENA,Mortgage,Web Platform,Private/HNW,69,84620.36
+2025-10-01,2025,10,MENA,Mortgage,Web Platform,Retail,70,88031.8
+2025-11-01,2025,11,MENA,Mortgage,Partner/Broker,SME,65,84259.1
+2025-12-01,2025,12,MENA,Mortgage,Partner/Broker,Retail,53,60912.08
+2023-01-01,2023,1,MENA,SME Business Loan,Web Platform,Mass Affluent,51,44617.29
+2023-02-01,2023,2,MENA,SME Business Loan,Mobile App,Retail,58,52012.53
+2023-03-01,2023,3,MENA,SME Business Loan,Mobile App,Retail,53,47827.76
+2023-04-01,2023,4,MENA,SME Business Loan,Mobile App,Retail,51,44514.85
+2023-05-01,2023,5,MENA,SME Business Loan,Web Platform,Retail,65,58588.56
+2023-06-01,2023,6,MENA,SME Business Loan,Mobile App,Retail,65,59437.15
+2023-07-01,2023,7,MENA,SME Business Loan,Mobile App,Retail,51,44837.66
+2023-08-01,2023,8,MENA,SME Business Loan,Web Platform,Retail,60,50008.11
+2023-09-01,2023,9,MENA,SME Business Loan,Partner/Broker,Mass Affluent,51,42323.66
+2023-10-01,2023,10,MENA,SME Business Loan,Partner/Broker,SME,63,57406.87
+2023-11-01,2023,11,MENA,SME Business Loan,Web Platform,Retail,73,67394.97
+2023-12-01,2023,12,MENA,SME Business Loan,Web Platform,Retail,75,69362.28
+2024-01-01,2024,1,MENA,SME Business Loan,Web Platform,Retail,56,49259.11
+2024-02-01,2024,2,MENA,SME Business Loan,Mobile App,Retail,74,66025.16
+2024-03-01,2024,3,MENA,SME Business Loan,Mobile App,SME,79,70436.87
+2024-04-01,2024,4,MENA,SME Business Loan,Web Platform,SME,75,66791.02
+2024-05-01,2024,5,MENA,SME Business Loan,Partner/Broker,SME,75,63886.56
+2024-06-01,2024,6,MENA,SME Business Loan,Web Platform,SME,79,71288.36
+2024-07-01,2024,7,MENA,SME Business Loan,Web Platform,Mass Affluent,60,56768.89
+2024-08-01,2024,8,MENA,SME Business Loan,Mobile App,SME,74,66609.65
+2024-09-01,2024,9,MENA,SME Business Loan,Branch (Assisted),Mass Affluent,84,75149.43
+2024-10-01,2024,10,MENA,SME Business Loan,Partner/Broker,Retail,91,83376.58
+2024-11-01,2024,11,MENA,SME Business Loan,Mobile App,Retail,87,78073.11
+2024-12-01,2024,12,MENA,SME Business Loan,Mobile App,Retail,88,76274.57
+2025-01-01,2025,1,MENA,SME Business Loan,Mobile App,SME,77,66564.02
+2025-02-01,2025,2,MENA,SME Business Loan,Web Platform,Retail,80,73465.9
+2025-03-01,2025,3,MENA,SME Business Loan,Partner/Broker,Retail,81,69250.6
+2025-04-01,2025,4,MENA,SME Business Loan,Partner/Broker,SME,95,79089.39
+2025-05-01,2025,5,MENA,SME Business Loan,Branch (Assisted),Retail,99,84007.07
+2025-06-01,2025,6,MENA,SME Business Loan,Web Platform,Retail,95,91935.48
+2025-07-01,2025,7,MENA,SME Business Loan,Partner/Broker,Retail,92,77913.55
+2025-08-01,2025,8,MENA,SME Business Loan,Mobile App,Retail,109,93824.76
+2025-09-01,2025,9,MENA,SME Business Loan,Web Platform,SME,85,77668.67
+2025-10-01,2025,10,MENA,SME Business Loan,Mobile App,Retail,100,93949.66
+2025-11-01,2025,11,MENA,SME Business Loan,Mobile App,Private/HNW,116,102109.83
+2025-12-01,2025,12,MENA,SME Business Loan,Web Platform,SME,109,95831.65
+2023-01-01,2023,1,MENA,Robo-Advisory Investment,Web Platform,Mass Affluent,222,44519.36
+2023-02-01,2023,2,MENA,Robo-Advisory Investment,Mobile App,Private/HNW,208,42033.63
+2023-03-01,2023,3,MENA,Robo-Advisory Investment,Partner/Broker,Retail,167,34315.89
+2023-04-01,2023,4,MENA,Robo-Advisory Investment,Branch (Assisted),Retail,187,40946.33
+2023-05-01,2023,5,MENA,Robo-Advisory Investment,Web Platform,Mass Affluent,175,38360.24
+2023-06-01,2023,6,MENA,Robo-Advisory Investment,Mobile App,SME,179,40820.16
+2023-07-01,2023,7,MENA,Robo-Advisory Investment,Mobile App,Mass Affluent,168,34975.14
+2023-08-01,2023,8,MENA,Robo-Advisory Investment,Web Platform,SME,195,40273.55
+2023-09-01,2023,9,MENA,Robo-Advisory Investment,Mobile App,Retail,182,37903.25
+2023-10-01,2023,10,MENA,Robo-Advisory Investment,Partner/Broker,SME,187,40689.56
+2023-11-01,2023,11,MENA,Robo-Advisory Investment,Mobile App,Mass Affluent,237,49210.45
+2023-12-01,2023,12,MENA,Robo-Advisory Investment,Partner/Broker,Retail,214,45692.55
+2024-01-01,2024,1,MENA,Robo-Advisory Investment,Partner/Broker,Retail,304,60201.51
+2024-02-01,2024,2,MENA,Robo-Advisory Investment,Mobile App,Retail,353,74835.29
+2024-03-01,2024,3,MENA,Robo-Advisory Investment,Web Platform,SME,229,49516.67
+2024-04-01,2024,4,MENA,Robo-Advisory Investment,Web Platform,Retail,227,49069.6
+2024-05-01,2024,5,MENA,Robo-Advisory Investment,Branch (Assisted),Retail,257,52842.2
+2024-06-01,2024,6,MENA,Robo-Advisory Investment,Web Platform,Retail,247,55148.62
+2024-07-01,2024,7,MENA,Robo-Advisory Investment,Web Platform,Retail,225,46155.23
+2024-08-01,2024,8,MENA,Robo-Advisory Investment,Web Platform,Retail,245,52628.27
+2024-09-01,2024,9,MENA,Robo-Advisory Investment,Partner/Broker,SME,268,55911.67
+2024-10-01,2024,10,MENA,Robo-Advisory Investment,Web Platform,Retail,262,52764.02
+2024-11-01,2024,11,MENA,Robo-Advisory Investment,Branch (Assisted),Retail,289,62078.56
+2024-12-01,2024,12,MENA,Robo-Advisory Investment,Web Platform,SME,266,56641.63
+2025-01-01,2025,1,MENA,Robo-Advisory Investment,Mobile App,SME,439,91152.63
+2025-02-01,2025,2,MENA,Robo-Advisory Investment,Mobile App,Retail,434,89911.57
+2025-03-01,2025,3,MENA,Robo-Advisory Investment,Mobile App,Mass Affluent,301,57843.99
+2025-04-01,2025,4,MENA,Robo-Advisory Investment,Web Platform,Private/HNW,267,58479.63
+2025-05-01,2025,5,MENA,Robo-Advisory Investment,Web Platform,SME,268,60042.93
+2025-06-01,2025,6,MENA,Robo-Advisory Investment,Mobile App,Retail,286,61654.61
+2025-07-01,2025,7,MENA,Robo-Advisory Investment,Mobile App,Mass Affluent,349,72579.81
+2025-08-01,2025,8,MENA,Robo-Advisory Investment,Mobile App,Mass Affluent,320,66154.58
+2025-09-01,2025,9,MENA,Robo-Advisory Investment,Mobile App,Private/HNW,325,64508.84
+2025-10-01,2025,10,MENA,Robo-Advisory Investment,Web Platform,SME,296,64699.1
+2025-11-01,2025,11,MENA,Robo-Advisory Investment,Branch (Assisted),SME,387,79782.24
+2025-12-01,2025,12,MENA,Robo-Advisory Investment,Mobile App,Retail,351,78872.97
+2023-01-01,2023,1,MENA,Fixed Deposit / Savings Plan,Mobile App,SME,291,26950.49
+2023-02-01,2023,2,MENA,Fixed Deposit / Savings Plan,Partner/Broker,SME,333,32880.28
+2023-03-01,2023,3,MENA,Fixed Deposit / Savings Plan,Web Platform,Mass Affluent,370,35521.59
+2023-04-01,2023,4,MENA,Fixed Deposit / Savings Plan,Mobile App,Retail,331,30917.61
+2023-05-01,2023,5,MENA,Fixed Deposit / Savings Plan,Partner/Broker,Retail,306,29880.54
+2023-06-01,2023,6,MENA,Fixed Deposit / Savings Plan,Partner/Broker,Retail,353,33060.95
+2023-07-01,2023,7,MENA,Fixed Deposit / Savings Plan,Partner/Broker,Retail,349,33384.39
+2023-08-01,2023,8,MENA,Fixed Deposit / Savings Plan,Mobile App,Private/HNW,347,33401.78
+2023-09-01,2023,9,MENA,Fixed Deposit / Savings Plan,Web Platform,Retail,299,29196.1
+2023-10-01,2023,10,MENA,Fixed Deposit / Savings Plan,Mobile App,Retail,407,41578.74
+2023-11-01,2023,11,MENA,Fixed Deposit / Savings Plan,Mobile App,SME,380,35672.74
+2023-12-01,2023,12,MENA,Fixed Deposit / Savings Plan,Mobile App,Retail,410,41521.2
+2024-01-01,2024,1,MENA,Fixed Deposit / Savings Plan,Web Platform,Retail,363,35638.96
+2024-02-01,2024,2,MENA,Fixed Deposit / Savings Plan,Branch (Assisted),Retail,385,35571.11
+2024-03-01,2024,3,MENA,Fixed Deposit / Savings Plan,Mobile App,Retail,423,37222.99
+2024-04-01,2024,4,MENA,Fixed Deposit / Savings Plan,Mobile App,Retail,432,40644.44
+2024-05-01,2024,5,MENA,Fixed Deposit / Savings Plan,Mobile App,Retail,390,37920.32
+2024-06-01,2024,6,MENA,Fixed Deposit / Savings Plan,Partner/Broker,Retail,416,40229.25
+2024-07-01,2024,7,MENA,Fixed Deposit / Savings Plan,Web Platform,Private/HNW,529,48293.95
+2024-08-01,2024,8,MENA,Fixed Deposit / Savings Plan,Partner/Broker,Mass Affluent,436,44127.16
+2024-09-01,2024,9,MENA,Fixed Deposit / Savings Plan,Mobile App,Private/HNW,438,40403.51
+2024-10-01,2024,10,MENA,Fixed Deposit / Savings Plan,Branch (Assisted),Retail,443,43423.92
+2024-11-01,2024,11,MENA,Fixed Deposit / Savings Plan,Web Platform,Mass Affluent,429,39778.31
+2024-12-01,2024,12,MENA,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,510,47051.77
+2025-01-01,2025,1,MENA,Fixed Deposit / Savings Plan,Web Platform,SME,547,53887.49
+2025-02-01,2025,2,MENA,Fixed Deposit / Savings Plan,Web Platform,SME,519,48333.54
+2025-03-01,2025,3,MENA,Fixed Deposit / Savings Plan,Mobile App,SME,565,54307.53
+2025-04-01,2025,4,MENA,Fixed Deposit / Savings Plan,Mobile App,SME,474,42766.45
+2025-05-01,2025,5,MENA,Fixed Deposit / Savings Plan,Partner/Broker,Retail,462,41665.17
+2025-06-01,2025,6,MENA,Fixed Deposit / Savings Plan,Branch (Assisted),Mass Affluent,559,54353.78
+2025-07-01,2025,7,MENA,Fixed Deposit / Savings Plan,Partner/Broker,SME,525,51748.62
+2025-08-01,2025,8,MENA,Fixed Deposit / Savings Plan,Web Platform,Private/HNW,615,57178.74
+2025-09-01,2025,9,MENA,Fixed Deposit / Savings Plan,Partner/Broker,SME,606,58401.71
+2025-10-01,2025,10,MENA,Fixed Deposit / Savings Plan,Web Platform,Private/HNW,600,59036.95
+2025-11-01,2025,11,MENA,Fixed Deposit / Savings Plan,Branch (Assisted),SME,654,64898.63
+2025-12-01,2025,12,MENA,Fixed Deposit / Savings Plan,Branch (Assisted),SME,684,67039.29
+2023-01-01,2023,1,MENA,Wealth Management (HNW),Mobile App,SME,8,27584.83
+2023-02-01,2023,2,MENA,Wealth Management (HNW),Mobile App,Retail,7,25405.28
+2023-03-01,2023,3,MENA,Wealth Management (HNW),Branch (Assisted),SME,8,24282.12
+2023-04-01,2023,4,MENA,Wealth Management (HNW),Mobile App,Retail,7,26117.21
+2023-05-01,2023,5,MENA,Wealth Management (HNW),Branch (Assisted),Retail,9,31790.54
+2023-06-01,2023,6,MENA,Wealth Management (HNW),Partner/Broker,Retail,9,31379.21
+2023-07-01,2023,7,MENA,Wealth Management (HNW),Web Platform,Retail,9,31150.88
+2023-08-01,2023,8,MENA,Wealth Management (HNW),Mobile App,SME,9,31076.8
+2023-09-01,2023,9,MENA,Wealth Management (HNW),Web Platform,Retail,10,35218.14
+2023-10-01,2023,10,MENA,Wealth Management (HNW),Mobile App,Retail,9,30223.03
+2023-11-01,2023,11,MENA,Wealth Management (HNW),Web Platform,SME,10,34910.4
+2023-12-01,2023,12,MENA,Wealth Management (HNW),Web Platform,Retail,9,30901.28
+2024-01-01,2024,1,MENA,Wealth Management (HNW),Mobile App,SME,10,34770.12
+2024-02-01,2024,2,MENA,Wealth Management (HNW),Partner/Broker,Retail,10,33086.52
+2024-03-01,2024,3,MENA,Wealth Management (HNW),Mobile App,Mass Affluent,9,32718.6
+2024-04-01,2024,4,MENA,Wealth Management (HNW),Mobile App,Retail,10,35245.94
+2024-05-01,2024,5,MENA,Wealth Management (HNW),Web Platform,Retail,11,37755.1
+2024-06-01,2024,6,MENA,Wealth Management (HNW),Web Platform,Retail,10,34651.53
+2024-07-01,2024,7,MENA,Wealth Management (HNW),Web Platform,Retail,12,38719.61
+2024-08-01,2024,8,MENA,Wealth Management (HNW),Mobile App,Retail,11,36448.41
+2024-09-01,2024,9,MENA,Wealth Management (HNW),Mobile App,Retail,11,37663.99
+2024-10-01,2024,10,MENA,Wealth Management (HNW),Mobile App,SME,13,45470.42
+2024-11-01,2024,11,MENA,Wealth Management (HNW),Partner/Broker,Retail,11,40314.59
+2024-12-01,2024,12,MENA,Wealth Management (HNW),Branch (Assisted),Retail,14,48518.24
+2025-01-01,2025,1,MENA,Wealth Management (HNW),Partner/Broker,SME,12,42859.57
+2025-02-01,2025,2,MENA,Wealth Management (HNW),Branch (Assisted),Retail,12,41568.95
+2025-03-01,2025,3,MENA,Wealth Management (HNW),Mobile App,Retail,13,45820.08
+2025-04-01,2025,4,MENA,Wealth Management (HNW),Web Platform,Retail,14,48050.45
+2025-05-01,2025,5,MENA,Wealth Management (HNW),Web Platform,SME,14,47956.76
+2025-06-01,2025,6,MENA,Wealth Management (HNW),Mobile App,Retail,14,44386.6
+2025-07-01,2025,7,MENA,Wealth Management (HNW),Partner/Broker,SME,14,47227.29
+2025-08-01,2025,8,MENA,Wealth Management (HNW),Mobile App,SME,16,54045.29
+2025-09-01,2025,9,MENA,Wealth Management (HNW),Web Platform,Retail,15,51977.6
+2025-10-01,2025,10,MENA,Wealth Management (HNW),Mobile App,Retail,14,52483.45
+2025-11-01,2025,11,MENA,Wealth Management (HNW),Mobile App,Mass Affluent,16,56814.31
+2025-12-01,2025,12,MENA,Wealth Management (HNW),Web Platform,Retail,14,47032.45
+2023-01-01,2023,1,APAC,Personal Loan,Mobile App,Retail,400,60432.36
+2023-02-01,2023,2,APAC,Personal Loan,Partner/Broker,SME,322,47507.25
+2023-03-01,2023,3,APAC,Personal Loan,Web Platform,Retail,472,65119.02
+2023-04-01,2023,4,APAC,Personal Loan,Web Platform,Retail,435,67830.01
+2023-05-01,2023,5,APAC,Personal Loan,Mobile App,Mass Affluent,350,51259.73
+2023-06-01,2023,6,APAC,Personal Loan,Mobile App,Private/HNW,402,55223.79
+2023-07-01,2023,7,APAC,Personal Loan,Mobile App,Retail,337,46465.65
+2023-08-01,2023,8,APAC,Personal Loan,Web Platform,Retail,365,60156.1
+2023-09-01,2023,9,APAC,Personal Loan,Mobile App,SME,423,61456.74
+2023-10-01,2023,10,APAC,Personal Loan,Web Platform,Mass Affluent,433,60766.4
+2023-11-01,2023,11,APAC,Personal Loan,Web Platform,Retail,422,59702.28
+2023-12-01,2023,12,APAC,Personal Loan,Mobile App,SME,444,63647.8
+2024-01-01,2024,1,APAC,Personal Loan,Web Platform,Retail,448,67519.68
+2024-02-01,2024,2,APAC,Personal Loan,Web Platform,Mass Affluent,500,70254.57
+2024-03-01,2024,3,APAC,Personal Loan,Mobile App,Retail,586,83600.39
+2024-04-01,2024,4,APAC,Personal Loan,Branch (Assisted),Mass Affluent,541,76550.01
+2024-05-01,2024,5,APAC,Personal Loan,Mobile App,Retail,421,63699.8
+2024-06-01,2024,6,APAC,Personal Loan,Web Platform,Retail,425,62791.16
+2024-07-01,2024,7,APAC,Personal Loan,Mobile App,Retail,444,67630.91
+2024-08-01,2024,8,APAC,Personal Loan,Web Platform,Mass Affluent,432,62963.15
+2024-09-01,2024,9,APAC,Personal Loan,Web Platform,Retail,464,63671.92
+2024-10-01,2024,10,APAC,Personal Loan,Mobile App,Retail,534,77734.03
+2024-11-01,2024,11,APAC,Personal Loan,Mobile App,Retail,548,83378.25
+2024-12-01,2024,12,APAC,Personal Loan,Partner/Broker,Retail,477,68502.18
+2025-01-01,2025,1,APAC,Personal Loan,Mobile App,SME,538,81764.82
+2025-02-01,2025,2,APAC,Personal Loan,Mobile App,SME,535,74745.02
+2025-03-01,2025,3,APAC,Personal Loan,Partner/Broker,SME,718,93014.61
+2025-04-01,2025,4,APAC,Personal Loan,Partner/Broker,SME,665,97723.32
+2025-05-01,2025,5,APAC,Personal Loan,Mobile App,SME,613,88921.8
+2025-06-01,2025,6,APAC,Personal Loan,Mobile App,Mass Affluent,568,83801.54
+2025-07-01,2025,7,APAC,Personal Loan,Partner/Broker,Retail,452,66398.62
+2025-08-01,2025,8,APAC,Personal Loan,Web Platform,Retail,474,63853.69
+2025-09-01,2025,9,APAC,Personal Loan,Mobile App,Private/HNW,589,86567.46
+2025-10-01,2025,10,APAC,Personal Loan,Mobile App,Retail,548,81964.26
+2025-11-01,2025,11,APAC,Personal Loan,Web Platform,Retail,566,81344.73
+2025-12-01,2025,12,APAC,Personal Loan,Web Platform,Retail,648,93354.33
+2023-01-01,2023,1,APAC,Credit Card,Mobile App,Mass Affluent,686,43900.22
+2023-02-01,2023,2,APAC,Credit Card,Branch (Assisted),SME,733,47900.64
+2023-03-01,2023,3,APAC,Credit Card,Branch (Assisted),SME,1005,60620.47
+2023-04-01,2023,4,APAC,Credit Card,Partner/Broker,Retail,918,58661.6
+2023-05-01,2023,5,APAC,Credit Card,Mobile App,Mass Affluent,828,54417.17
+2023-06-01,2023,6,APAC,Credit Card,Mobile App,Retail,866,57146.9
+2023-07-01,2023,7,APAC,Credit Card,Web Platform,Mass Affluent,879,57375.25
+2023-08-01,2023,8,APAC,Credit Card,Mobile App,Mass Affluent,937,60761.65
+2023-09-01,2023,9,APAC,Credit Card,Web Platform,Retail,902,55136.23
+2023-10-01,2023,10,APAC,Credit Card,Mobile App,Retail,919,55297.64
+2023-11-01,2023,11,APAC,Credit Card,Branch (Assisted),Retail,1150,75731.65
+2023-12-01,2023,12,APAC,Credit Card,Mobile App,Mass Affluent,1256,81650.87
+2024-01-01,2024,1,APAC,Credit Card,Partner/Broker,Retail,891,57276.83
+2024-02-01,2024,2,APAC,Credit Card,Branch (Assisted),Retail,858,54849.39
+2024-03-01,2024,3,APAC,Credit Card,Mobile App,Retail,879,58638.19
+2024-04-01,2024,4,APAC,Credit Card,Web Platform,Retail,933,62720.22
+2024-05-01,2024,5,APAC,Credit Card,Partner/Broker,Private/HNW,937,61382.11
+2024-06-01,2024,6,APAC,Credit Card,Partner/Broker,Retail,827,53575.58
+2024-07-01,2024,7,APAC,Credit Card,Web Platform,SME,1071,68637.03
+2024-08-01,2024,8,APAC,Credit Card,Web Platform,Private/HNW,1007,66306.67
+2024-09-01,2024,9,APAC,Credit Card,Mobile App,Mass Affluent,835,52949.55
+2024-10-01,2024,10,APAC,Credit Card,Web Platform,Mass Affluent,1114,68974.98
+2024-11-01,2024,11,APAC,Credit Card,Web Platform,SME,1508,101533.02
+2024-12-01,2024,12,APAC,Credit Card,Mobile App,SME,1318,86882.88
+2025-01-01,2025,1,APAC,Credit Card,Mobile App,Retail,851,54304.4
+2025-02-01,2025,2,APAC,Credit Card,Mobile App,Mass Affluent,933,60892.8
+2025-03-01,2025,3,APAC,Credit Card,Web Platform,Retail,1220,77255.52
+2025-04-01,2025,4,APAC,Credit Card,Branch (Assisted),Private/HNW,1286,92408.17
+2025-05-01,2025,5,APAC,Credit Card,Web Platform,Retail,1011,64227.98
+2025-06-01,2025,6,APAC,Credit Card,Mobile App,SME,1150,74944.7
+2025-07-01,2025,7,APAC,Credit Card,Branch (Assisted),Retail,1249,86245.08
+2025-08-01,2025,8,APAC,Credit Card,Web Platform,SME,1366,82839.18
+2025-09-01,2025,9,APAC,Credit Card,Mobile App,Retail,1326,84579.07
+2025-10-01,2025,10,APAC,Credit Card,Mobile App,Private/HNW,1380,86736.14
+2025-11-01,2025,11,APAC,Credit Card,Mobile App,Retail,1619,102626.13
+2025-12-01,2025,12,APAC,Credit Card,Partner/Broker,SME,1945,122548.75
+2023-01-01,2023,1,APAC,Mortgage,Mobile App,Retail,42,53523.0
+2023-02-01,2023,2,APAC,Mortgage,Mobile App,Retail,44,54473.86
+2023-03-01,2023,3,APAC,Mortgage,Partner/Broker,SME,53,70151.26
+2023-04-01,2023,4,APAC,Mortgage,Mobile App,SME,68,81394.19
+2023-05-01,2023,5,APAC,Mortgage,Branch (Assisted),Retail,64,83160.72
+2023-06-01,2023,6,APAC,Mortgage,Mobile App,Private/HNW,72,87484.56
+2023-07-01,2023,7,APAC,Mortgage,Mobile App,Retail,56,69465.0
+2023-08-01,2023,8,APAC,Mortgage,Mobile App,Retail,59,78333.21
+2023-09-01,2023,9,APAC,Mortgage,Mobile App,Retail,64,87535.93
+2023-10-01,2023,10,APAC,Mortgage,Mobile App,SME,53,66129.3
+2023-11-01,2023,11,APAC,Mortgage,Mobile App,Retail,63,76064.38
+2023-12-01,2023,12,APAC,Mortgage,Mobile App,SME,53,69007.45
+2024-01-01,2024,1,APAC,Mortgage,Partner/Broker,Mass Affluent,54,68200.37
+2024-02-01,2024,2,APAC,Mortgage,Mobile App,Retail,60,74412.4
+2024-03-01,2024,3,APAC,Mortgage,Mobile App,Retail,55,67172.28
+2024-04-01,2024,4,APAC,Mortgage,Mobile App,Retail,83,108943.55
+2024-05-01,2024,5,APAC,Mortgage,Web Platform,SME,78,98143.51
+2024-06-01,2024,6,APAC,Mortgage,Partner/Broker,SME,86,102080.34
+2024-07-01,2024,7,APAC,Mortgage,Branch (Assisted),Private/HNW,64,79848.35
+2024-08-01,2024,8,APAC,Mortgage,Web Platform,Mass Affluent,64,82281.21
+2024-09-01,2024,9,APAC,Mortgage,Web Platform,Retail,71,88865.19
+2024-10-01,2024,10,APAC,Mortgage,Web Platform,Retail,66,79891.82
+2024-11-01,2024,11,APAC,Mortgage,Partner/Broker,SME,71,92266.05
+2024-12-01,2024,12,APAC,Mortgage,Mobile App,Retail,61,75454.86
+2025-01-01,2025,1,APAC,Mortgage,Web Platform,Retail,66,80528.97
+2025-02-01,2025,2,APAC,Mortgage,Mobile App,Retail,68,82853.65
+2025-03-01,2025,3,APAC,Mortgage,Mobile App,Private/HNW,76,95876.04
+2025-04-01,2025,4,APAC,Mortgage,Partner/Broker,SME,104,128210.65
+2025-05-01,2025,5,APAC,Mortgage,Mobile App,Retail,87,107729.42
+2025-06-01,2025,6,APAC,Mortgage,Partner/Broker,Retail,77,97407.84
+2025-07-01,2025,7,APAC,Mortgage,Web Platform,Retail,80,99908.17
+2025-08-01,2025,8,APAC,Mortgage,Mobile App,Private/HNW,75,91795.31
+2025-09-01,2025,9,APAC,Mortgage,Web Platform,Private/HNW,87,107610.56
+2025-10-01,2025,10,APAC,Mortgage,Mobile App,SME,81,97315.59
+2025-11-01,2025,11,APAC,Mortgage,Mobile App,Retail,87,101972.65
+2025-12-01,2025,12,APAC,Mortgage,Partner/Broker,Private/HNW,70,88802.59
+2023-01-01,2023,1,APAC,SME Business Loan,Branch (Assisted),Retail,77,64091.46
+2023-02-01,2023,2,APAC,SME Business Loan,Mobile App,Retail,81,72354.32
+2023-03-01,2023,3,APAC,SME Business Loan,Partner/Broker,Retail,89,78823.19
+2023-04-01,2023,4,APAC,SME Business Loan,Mobile App,Mass Affluent,84,72651.2
+2023-05-01,2023,5,APAC,SME Business Loan,Mobile App,Mass Affluent,92,79653.55
+2023-06-01,2023,6,APAC,SME Business Loan,Partner/Broker,Mass Affluent,89,83062.64
+2023-07-01,2023,7,APAC,SME Business Loan,Branch (Assisted),SME,91,83714.06
+2023-08-01,2023,8,APAC,SME Business Loan,Branch (Assisted),Retail,88,84285.25
+2023-09-01,2023,9,APAC,SME Business Loan,Web Platform,Retail,85,78096.51
+2023-10-01,2023,10,APAC,SME Business Loan,Mobile App,SME,102,86817.52
+2023-11-01,2023,11,APAC,SME Business Loan,Web Platform,Retail,88,79293.22
+2023-12-01,2023,12,APAC,SME Business Loan,Mobile App,Retail,99,78595.89
+2024-01-01,2024,1,APAC,SME Business Loan,Partner/Broker,Retail,100,85190.95
+2024-02-01,2024,2,APAC,SME Business Loan,Web Platform,Retail,90,80994.21
+2024-03-01,2024,3,APAC,SME Business Loan,Web Platform,Retail,111,94249.4
+2024-04-01,2024,4,APAC,SME Business Loan,Mobile App,SME,108,93874.22
+2024-05-01,2024,5,APAC,SME Business Loan,Mobile App,Mass Affluent,95,84068.05
+2024-06-01,2024,6,APAC,SME Business Loan,Branch (Assisted),SME,95,85459.62
+2024-07-01,2024,7,APAC,SME Business Loan,Mobile App,Mass Affluent,104,90181.2
+2024-08-01,2024,8,APAC,SME Business Loan,Partner/Broker,SME,107,85811.58
+2024-09-01,2024,9,APAC,SME Business Loan,Web Platform,Retail,113,96680.17
+2024-10-01,2024,10,APAC,SME Business Loan,Mobile App,SME,106,93448.51
+2024-11-01,2024,11,APAC,SME Business Loan,Web Platform,Retail,112,105469.64
+2024-12-01,2024,12,APAC,SME Business Loan,Branch (Assisted),Retail,117,105327.67
+2025-01-01,2025,1,APAC,SME Business Loan,Web Platform,Mass Affluent,124,114254.67
+2025-02-01,2025,2,APAC,SME Business Loan,Partner/Broker,Mass Affluent,112,105991.76
+2025-03-01,2025,3,APAC,SME Business Loan,Web Platform,Mass Affluent,117,100596.29
+2025-04-01,2025,4,APAC,SME Business Loan,Web Platform,SME,120,107011.59
+2025-05-01,2025,5,APAC,SME Business Loan,Partner/Broker,Retail,122,103075.7
+2025-06-01,2025,6,APAC,SME Business Loan,Partner/Broker,Mass Affluent,122,105628.65
+2025-07-01,2025,7,APAC,SME Business Loan,Mobile App,Retail,124,111492.44
+2025-08-01,2025,8,APAC,SME Business Loan,Branch (Assisted),SME,124,104315.74
+2025-09-01,2025,9,APAC,SME Business Loan,Web Platform,Retail,133,117865.68
+2025-10-01,2025,10,APAC,SME Business Loan,Mobile App,Retail,133,114721.41
+2025-11-01,2025,11,APAC,SME Business Loan,Branch (Assisted),Retail,148,122750.56
+2025-12-01,2025,12,APAC,SME Business Loan,Mobile App,Retail,135,123868.26
+2023-01-01,2023,1,APAC,Robo-Advisory Investment,Mobile App,Mass Affluent,339,65934.6
+2023-02-01,2023,2,APAC,Robo-Advisory Investment,Branch (Assisted),Mass Affluent,339,69091.25
+2023-03-01,2023,3,APAC,Robo-Advisory Investment,Web Platform,Retail,273,56297.91
+2023-04-01,2023,4,APAC,Robo-Advisory Investment,Mobile App,Retail,253,52000.93
+2023-05-01,2023,5,APAC,Robo-Advisory Investment,Web Platform,SME,278,56549.86
+2023-06-01,2023,6,APAC,Robo-Advisory Investment,Web Platform,Retail,296,59663.43
+2023-07-01,2023,7,APAC,Robo-Advisory Investment,Branch (Assisted),Retail,276,56796.44
+2023-08-01,2023,8,APAC,Robo-Advisory Investment,Partner/Broker,Retail,333,75025.49
+2023-09-01,2023,9,APAC,Robo-Advisory Investment,Mobile App,Retail,333,67686.65
+2023-10-01,2023,10,APAC,Robo-Advisory Investment,Partner/Broker,Retail,343,71054.83
+2023-11-01,2023,11,APAC,Robo-Advisory Investment,Partner/Broker,Private/HNW,296,61265.23
+2023-12-01,2023,12,APAC,Robo-Advisory Investment,Web Platform,Retail,320,67090.69
+2024-01-01,2024,1,APAC,Robo-Advisory Investment,Mobile App,Mass Affluent,458,89870.89
+2024-02-01,2024,2,APAC,Robo-Advisory Investment,Web Platform,Retail,449,94486.8
+2024-03-01,2024,3,APAC,Robo-Advisory Investment,Branch (Assisted),Mass Affluent,292,61342.69
+2024-04-01,2024,4,APAC,Robo-Advisory Investment,Branch (Assisted),Mass Affluent,363,74859.44
+2024-05-01,2024,5,APAC,Robo-Advisory Investment,Mobile App,Retail,330,63318.26
+2024-06-01,2024,6,APAC,Robo-Advisory Investment,Web Platform,Mass Affluent,328,69894.97
+2024-07-01,2024,7,APAC,Robo-Advisory Investment,Mobile App,Mass Affluent,349,68114.87
+2024-08-01,2024,8,APAC,Robo-Advisory Investment,Partner/Broker,Retail,295,62233.12
+2024-09-01,2024,9,APAC,Robo-Advisory Investment,Partner/Broker,Retail,362,75607.84
+2024-10-01,2024,10,APAC,Robo-Advisory Investment,Mobile App,Retail,403,83363.83
+2024-11-01,2024,11,APAC,Robo-Advisory Investment,Partner/Broker,Mass Affluent,363,73019.7
+2024-12-01,2024,12,APAC,Robo-Advisory Investment,Web Platform,SME,350,68371.98
+2025-01-01,2025,1,APAC,Robo-Advisory Investment,Web Platform,SME,557,120729.5
+2025-02-01,2025,2,APAC,Robo-Advisory Investment,Web Platform,Retail,598,124182.13
+2025-03-01,2025,3,APAC,Robo-Advisory Investment,Web Platform,SME,375,79951.83
+2025-04-01,2025,4,APAC,Robo-Advisory Investment,Branch (Assisted),Retail,424,96245.63
+2025-05-01,2025,5,APAC,Robo-Advisory Investment,Branch (Assisted),Retail,454,95370.9
+2025-06-01,2025,6,APAC,Robo-Advisory Investment,Branch (Assisted),Private/HNW,382,86745.44
+2025-07-01,2025,7,APAC,Robo-Advisory Investment,Web Platform,Retail,374,72622.22
+2025-08-01,2025,8,APAC,Robo-Advisory Investment,Partner/Broker,Retail,367,76071.58
+2025-09-01,2025,9,APAC,Robo-Advisory Investment,Mobile App,Retail,376,78907.39
+2025-10-01,2025,10,APAC,Robo-Advisory Investment,Partner/Broker,Retail,439,97116.01
+2025-11-01,2025,11,APAC,Robo-Advisory Investment,Mobile App,Mass Affluent,425,92905.78
+2025-12-01,2025,12,APAC,Robo-Advisory Investment,Mobile App,Retail,461,90867.38
+2023-01-01,2023,1,APAC,Fixed Deposit / Savings Plan,Web Platform,SME,442,43587.69
+2023-02-01,2023,2,APAC,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,459,42941.52
+2023-03-01,2023,3,APAC,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,508,51136.46
+2023-04-01,2023,4,APAC,Fixed Deposit / Savings Plan,Mobile App,Private/HNW,508,46851.39
+2023-05-01,2023,5,APAC,Fixed Deposit / Savings Plan,Web Platform,SME,417,41357.01
+2023-06-01,2023,6,APAC,Fixed Deposit / Savings Plan,Partner/Broker,Retail,479,39287.81
+2023-07-01,2023,7,APAC,Fixed Deposit / Savings Plan,Web Platform,Retail,484,48451.21
+2023-08-01,2023,8,APAC,Fixed Deposit / Savings Plan,Partner/Broker,Retail,517,49524.09
+2023-09-01,2023,9,APAC,Fixed Deposit / Savings Plan,Mobile App,SME,457,43146.26
+2023-10-01,2023,10,APAC,Fixed Deposit / Savings Plan,Web Platform,Retail,468,43492.46
+2023-11-01,2023,11,APAC,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,571,54823.09
+2023-12-01,2023,12,APAC,Fixed Deposit / Savings Plan,Branch (Assisted),Retail,546,47689.86
+2024-01-01,2024,1,APAC,Fixed Deposit / Savings Plan,Mobile App,Private/HNW,523,50930.82
+2024-02-01,2024,2,APAC,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,487,46223.47
+2024-03-01,2024,3,APAC,Fixed Deposit / Savings Plan,Web Platform,Retail,554,53463.58
+2024-04-01,2024,4,APAC,Fixed Deposit / Savings Plan,Web Platform,Retail,424,37821.07
+2024-05-01,2024,5,APAC,Fixed Deposit / Savings Plan,Mobile App,Retail,549,50586.25
+2024-06-01,2024,6,APAC,Fixed Deposit / Savings Plan,Web Platform,Retail,546,54871.83
+2024-07-01,2024,7,APAC,Fixed Deposit / Savings Plan,Partner/Broker,SME,648,60660.45
+2024-08-01,2024,8,APAC,Fixed Deposit / Savings Plan,Mobile App,SME,547,48421.98
+2024-09-01,2024,9,APAC,Fixed Deposit / Savings Plan,Web Platform,Retail,658,64035.79
+2024-10-01,2024,10,APAC,Fixed Deposit / Savings Plan,Branch (Assisted),Retail,652,64954.01
+2024-11-01,2024,11,APAC,Fixed Deposit / Savings Plan,Mobile App,Retail,653,61271.84
+2024-12-01,2024,12,APAC,Fixed Deposit / Savings Plan,Mobile App,Retail,728,71652.49
+2025-01-01,2025,1,APAC,Fixed Deposit / Savings Plan,Branch (Assisted),Retail,734,70528.69
+2025-02-01,2025,2,APAC,Fixed Deposit / Savings Plan,Partner/Broker,Retail,725,66039.62
+2025-03-01,2025,3,APAC,Fixed Deposit / Savings Plan,Mobile App,Retail,660,61521.17
+2025-04-01,2025,4,APAC,Fixed Deposit / Savings Plan,Mobile App,SME,691,66746.68
+2025-05-01,2025,5,APAC,Fixed Deposit / Savings Plan,Web Platform,SME,674,60953.33
+2025-06-01,2025,6,APAC,Fixed Deposit / Savings Plan,Web Platform,Retail,644,59552.63
+2025-07-01,2025,7,APAC,Fixed Deposit / Savings Plan,Partner/Broker,SME,603,55194.75
+2025-08-01,2025,8,APAC,Fixed Deposit / Savings Plan,Mobile App,Retail,717,70710.9
+2025-09-01,2025,9,APAC,Fixed Deposit / Savings Plan,Web Platform,Retail,769,69466.45
+2025-10-01,2025,10,APAC,Fixed Deposit / Savings Plan,Mobile App,Retail,787,77807.56
+2025-11-01,2025,11,APAC,Fixed Deposit / Savings Plan,Web Platform,Mass Affluent,881,82525.95
+2025-12-01,2025,12,APAC,Fixed Deposit / Savings Plan,Partner/Broker,SME,683,68374.68
+2023-01-01,2023,1,APAC,Wealth Management (HNW),Partner/Broker,Retail,12,39088.6
+2023-02-01,2023,2,APAC,Wealth Management (HNW),Mobile App,Retail,11,37607.22
+2023-03-01,2023,3,APAC,Wealth Management (HNW),Partner/Broker,Private/HNW,13,41918.85
+2023-04-01,2023,4,APAC,Wealth Management (HNW),Web Platform,Mass Affluent,12,41012.48
+2023-05-01,2023,5,APAC,Wealth Management (HNW),Web Platform,Retail,12,41651.72
+2023-06-01,2023,6,APAC,Wealth Management (HNW),Partner/Broker,SME,13,43783.43
+2023-07-01,2023,7,APAC,Wealth Management (HNW),Mobile App,Retail,12,41594.74
+2023-08-01,2023,8,APAC,Wealth Management (HNW),Mobile App,Retail,13,46232.38
+2023-09-01,2023,9,APAC,Wealth Management (HNW),Mobile App,Retail,12,40483.66
+2023-10-01,2023,10,APAC,Wealth Management (HNW),Web Platform,Mass Affluent,13,45010.44
+2023-11-01,2023,11,APAC,Wealth Management (HNW),Web Platform,Mass Affluent,16,56549.92
+2023-12-01,2023,12,APAC,Wealth Management (HNW),Mobile App,Retail,14,46407.3
+2024-01-01,2024,1,APAC,Wealth Management (HNW),Mobile App,Retail,14,47731.47
+2024-02-01,2024,2,APAC,Wealth Management (HNW),Web Platform,SME,15,54174.15
+2024-03-01,2024,3,APAC,Wealth Management (HNW),Web Platform,Retail,16,52959.84
+2024-04-01,2024,4,APAC,Wealth Management (HNW),Web Platform,SME,15,53933.5
+2024-05-01,2024,5,APAC,Wealth Management (HNW),Partner/Broker,SME,17,60470.1
+2024-06-01,2024,6,APAC,Wealth Management (HNW),Mobile App,Retail,16,57886.28
+2024-07-01,2024,7,APAC,Wealth Management (HNW),Mobile App,Retail,16,56531.21
+2024-08-01,2024,8,APAC,Wealth Management (HNW),Mobile App,Mass Affluent,17,56619.85
+2024-09-01,2024,9,APAC,Wealth Management (HNW),Web Platform,Retail,17,56215.48
+2024-10-01,2024,10,APAC,Wealth Management (HNW),Web Platform,Mass Affluent,15,48119.9
+2024-11-01,2024,11,APAC,Wealth Management (HNW),Mobile App,Retail,14,49969.9
+2024-12-01,2024,12,APAC,Wealth Management (HNW),Partner/Broker,Retail,17,62601.62
+2025-01-01,2025,1,APAC,Wealth Management (HNW),Web Platform,Retail,17,59129.91
+2025-02-01,2025,2,APAC,Wealth Management (HNW),Partner/Broker,SME,17,55604.26
+2025-03-01,2025,3,APAC,Wealth Management (HNW),Partner/Broker,Retail,18,60585.57
+2025-04-01,2025,4,APAC,Wealth Management (HNW),Partner/Broker,SME,19,61902.28
+2025-05-01,2025,5,APAC,Wealth Management (HNW),Mobile App,SME,18,60738.22
+2025-06-01,2025,6,APAC,Wealth Management (HNW),Web Platform,Retail,18,63157.25
+2025-07-01,2025,7,APAC,Wealth Management (HNW),Mobile App,Retail,19,65317.97
+2025-08-01,2025,8,APAC,Wealth Management (HNW),Partner/Broker,SME,18,63009.28
+2025-09-01,2025,9,APAC,Wealth Management (HNW),Mobile App,Retail,19,59528.78
+2025-10-01,2025,10,APAC,Wealth Management (HNW),Partner/Broker,Retail,20,64053.95
+2025-11-01,2025,11,APAC,Wealth Management (HNW),Web Platform,SME,19,64213.28
+2025-12-01,2025,12,APAC,Wealth Management (HNW),Mobile App,Mass Affluent,23,79052.09
+2023-01-01,2023,1,LATAM,Personal Loan,Web Platform,Retail,179,26559.18
+2023-02-01,2023,2,LATAM,Personal Loan,Partner/Broker,Retail,157,23103.8
+2023-03-01,2023,3,LATAM,Personal Loan,Mobile App,Private/HNW,243,34729.24
+2023-04-01,2023,4,LATAM,Personal Loan,Partner/Broker,Private/HNW,223,32382.59
+2023-05-01,2023,5,LATAM,Personal Loan,Web Platform,SME,190,26713.66
+2023-06-01,2023,6,LATAM,Personal Loan,Partner/Broker,SME,212,32546.72
+2023-07-01,2023,7,LATAM,Personal Loan,Partner/Broker,Mass Affluent,187,28156.19
+2023-08-01,2023,8,LATAM,Personal Loan,Mobile App,Retail,183,26030.9
+2023-09-01,2023,9,LATAM,Personal Loan,Mobile App,Retail,206,31426.79
+2023-10-01,2023,10,LATAM,Personal Loan,Mobile App,Mass Affluent,189,27346.24
+2023-11-01,2023,11,LATAM,Personal Loan,Branch (Assisted),Retail,212,27912.24
+2023-12-01,2023,12,LATAM,Personal Loan,Mobile App,Private/HNW,198,26853.76
+2024-01-01,2024,1,LATAM,Personal Loan,Mobile App,Retail,241,34141.93
+2024-02-01,2024,2,LATAM,Personal Loan,Web Platform,Mass Affluent,214,28792.62
+2024-03-01,2024,3,LATAM,Personal Loan,Partner/Broker,Mass Affluent,263,37589.61
+2024-04-01,2024,4,LATAM,Personal Loan,Mobile App,Mass Affluent,261,37593.79
+2024-05-01,2024,5,LATAM,Personal Loan,Mobile App,Retail,212,30222.32
+2024-06-01,2024,6,LATAM,Personal Loan,Web Platform,Mass Affluent,204,30011.1
+2024-07-01,2024,7,LATAM,Personal Loan,Partner/Broker,SME,143,19521.88
+2024-08-01,2024,8,LATAM,Personal Loan,Mobile App,Retail,221,31785.44
+2024-09-01,2024,9,LATAM,Personal Loan,Mobile App,Retail,257,37613.86
+2024-10-01,2024,10,LATAM,Personal Loan,Mobile App,SME,212,31898.75
+2024-11-01,2024,11,LATAM,Personal Loan,Mobile App,Retail,219,33025.55
+2024-12-01,2024,12,LATAM,Personal Loan,Branch (Assisted),Retail,249,34344.59
+2025-01-01,2025,1,LATAM,Personal Loan,Mobile App,Retail,241,33510.57
+2025-02-01,2025,2,LATAM,Personal Loan,Mobile App,SME,233,34685.06
+2025-03-01,2025,3,LATAM,Personal Loan,Web Platform,Retail,354,51810.83
+2025-04-01,2025,4,LATAM,Personal Loan,Web Platform,Retail,236,33319.68
+2025-05-01,2025,5,LATAM,Personal Loan,Branch (Assisted),Retail,247,36367.83
+2025-06-01,2025,6,LATAM,Personal Loan,Partner/Broker,Retail,260,38050.54
+2025-07-01,2025,7,LATAM,Personal Loan,Mobile App,SME,232,35724.09
+2025-08-01,2025,8,LATAM,Personal Loan,Partner/Broker,Retail,217,31005.95
+2025-09-01,2025,9,LATAM,Personal Loan,Web Platform,SME,249,35031.04
+2025-10-01,2025,10,LATAM,Personal Loan,Mobile App,Retail,256,35635.76
+2025-11-01,2025,11,LATAM,Personal Loan,Partner/Broker,Mass Affluent,239,33389.63
+2025-12-01,2025,12,LATAM,Personal Loan,Mobile App,Retail,268,37506.81
+2023-01-01,2023,1,LATAM,Credit Card,Mobile App,Mass Affluent,373,26179.83
+2023-02-01,2023,2,LATAM,Credit Card,Partner/Broker,Retail,446,29399.01
+2023-03-01,2023,3,LATAM,Credit Card,Mobile App,Mass Affluent,413,26515.02
+2023-04-01,2023,4,LATAM,Credit Card,Mobile App,SME,390,26100.81
+2023-05-01,2023,5,LATAM,Credit Card,Mobile App,Private/HNW,433,29400.35
+2023-06-01,2023,6,LATAM,Credit Card,Mobile App,Retail,458,30806.69
+2023-07-01,2023,7,LATAM,Credit Card,Mobile App,Retail,433,27870.54
+2023-08-01,2023,8,LATAM,Credit Card,Mobile App,Mass Affluent,389,25356.37
+2023-09-01,2023,9,LATAM,Credit Card,Web Platform,Retail,462,28845.78
+2023-10-01,2023,10,LATAM,Credit Card,Web Platform,Retail,463,29578.7
+2023-11-01,2023,11,LATAM,Credit Card,Mobile App,Retail,632,40783.16
+2023-12-01,2023,12,LATAM,Credit Card,Web Platform,SME,666,44069.45
+2024-01-01,2024,1,LATAM,Credit Card,Mobile App,Mass Affluent,405,25122.32
+2024-02-01,2024,2,LATAM,Credit Card,Partner/Broker,Retail,458,28103.49
+2024-03-01,2024,3,LATAM,Credit Card,Mobile App,Mass Affluent,487,32603.96
+2024-04-01,2024,4,LATAM,Credit Card,Web Platform,Retail,523,32898.94
+2024-05-01,2024,5,LATAM,Credit Card,Web Platform,Retail,488,32222.61
+2024-06-01,2024,6,LATAM,Credit Card,Mobile App,Retail,464,29331.04
+2024-07-01,2024,7,LATAM,Credit Card,Branch (Assisted),Retail,480,30093.27
+2024-08-01,2024,8,LATAM,Credit Card,Web Platform,Retail,452,29080.45
+2024-09-01,2024,9,LATAM,Credit Card,Web Platform,Retail,473,29695.38
+2024-10-01,2024,10,LATAM,Credit Card,Partner/Broker,Retail,480,31179.51
+2024-11-01,2024,11,LATAM,Credit Card,Mobile App,Mass Affluent,738,48934.53
+2024-12-01,2024,12,LATAM,Credit Card,Partner/Broker,Retail,785,51420.47
+2025-01-01,2025,1,LATAM,Credit Card,Mobile App,Retail,414,28780.46
+2025-02-01,2025,2,LATAM,Credit Card,Mobile App,Retail,464,28428.59
+2025-03-01,2025,3,LATAM,Credit Card,Partner/Broker,SME,517,34211.89
+2025-04-01,2025,4,LATAM,Credit Card,Web Platform,SME,568,35600.94
+2025-05-01,2025,5,LATAM,Credit Card,Mobile App,Retail,467,29699.34
+2025-06-01,2025,6,LATAM,Credit Card,Mobile App,SME,599,39643.15
+2025-07-01,2025,7,LATAM,Credit Card,Branch (Assisted),Mass Affluent,470,29452.22
+2025-08-01,2025,8,LATAM,Credit Card,Branch (Assisted),Mass Affluent,528,33124.52
+2025-09-01,2025,9,LATAM,Credit Card,Partner/Broker,Retail,476,29101.22
+2025-10-01,2025,10,LATAM,Credit Card,Mobile App,Retail,551,35480.97
+2025-11-01,2025,11,LATAM,Credit Card,Branch (Assisted),Retail,855,53830.14
+2025-12-01,2025,12,LATAM,Credit Card,Web Platform,Mass Affluent,802,49432.1
+2023-01-01,2023,1,LATAM,Mortgage,Mobile App,Retail,23,28863.65
+2023-02-01,2023,2,LATAM,Mortgage,Branch (Assisted),Mass Affluent,28,36840.49
+2023-03-01,2023,3,LATAM,Mortgage,Web Platform,Retail,22,29365.08
+2023-04-01,2023,4,LATAM,Mortgage,Mobile App,Mass Affluent,34,42236.77
+2023-05-01,2023,5,LATAM,Mortgage,Mobile App,Retail,41,51320.69
+2023-06-01,2023,6,LATAM,Mortgage,Mobile App,Retail,39,47573.61
+2023-07-01,2023,7,LATAM,Mortgage,Mobile App,Retail,30,39928.34
+2023-08-01,2023,8,LATAM,Mortgage,Web Platform,Private/HNW,27,31944.5
+2023-09-01,2023,9,LATAM,Mortgage,Web Platform,Mass Affluent,27,33275.31
+2023-10-01,2023,10,LATAM,Mortgage,Partner/Broker,Retail,28,36026.57
+2023-11-01,2023,11,LATAM,Mortgage,Web Platform,SME,30,36696.85
+2023-12-01,2023,12,LATAM,Mortgage,Branch (Assisted),Retail,22,28593.24
+2024-01-01,2024,1,LATAM,Mortgage,Web Platform,Retail,25,31592.52
+2024-02-01,2024,2,LATAM,Mortgage,Web Platform,Retail,32,40715.93
+2024-03-01,2024,3,LATAM,Mortgage,Mobile App,SME,34,43985.14
+2024-04-01,2024,4,LATAM,Mortgage,Mobile App,SME,42,53857.93
+2024-05-01,2024,5,LATAM,Mortgage,Mobile App,Retail,40,48965.73
+2024-06-01,2024,6,LATAM,Mortgage,Partner/Broker,Retail,39,47924.79
+2024-07-01,2024,7,LATAM,Mortgage,Mobile App,Mass Affluent,30,36837.42
+2024-08-01,2024,8,LATAM,Mortgage,Partner/Broker,Private/HNW,35,44501.59
+2024-09-01,2024,9,LATAM,Mortgage,Mobile App,SME,31,37662.95
+2024-10-01,2024,10,LATAM,Mortgage,Mobile App,Mass Affluent,33,40301.16
+2024-11-01,2024,11,LATAM,Mortgage,Branch (Assisted),Retail,32,39693.14
+2024-12-01,2024,12,LATAM,Mortgage,Mobile App,Retail,24,29609.23
+2025-01-01,2025,1,LATAM,Mortgage,Branch (Assisted),Private/HNW,23,30123.59
+2025-02-01,2025,2,LATAM,Mortgage,Partner/Broker,Retail,33,40990.71
+2025-03-01,2025,3,LATAM,Mortgage,Mobile App,SME,33,38337.16
+2025-04-01,2025,4,LATAM,Mortgage,Web Platform,Mass Affluent,46,57156.93
+2025-05-01,2025,5,LATAM,Mortgage,Web Platform,SME,44,58035.0
+2025-06-01,2025,6,LATAM,Mortgage,Mobile App,SME,49,62130.5
+2025-07-01,2025,7,LATAM,Mortgage,Mobile App,Mass Affluent,33,43536.22
+2025-08-01,2025,8,LATAM,Mortgage,Web Platform,SME,36,44053.77
+2025-09-01,2025,9,LATAM,Mortgage,Partner/Broker,Retail,38,45675.95
+2025-10-01,2025,10,LATAM,Mortgage,Partner/Broker,Retail,30,35159.5
+2025-11-01,2025,11,LATAM,Mortgage,Partner/Broker,Mass Affluent,37,47112.73
+2025-12-01,2025,12,LATAM,Mortgage,Mobile App,Retail,32,45693.12
+2023-01-01,2023,1,LATAM,SME Business Loan,Partner/Broker,Retail,44,41195.12
+2023-02-01,2023,2,LATAM,SME Business Loan,Mobile App,Retail,43,38558.27
+2023-03-01,2023,3,LATAM,SME Business Loan,Web Platform,Retail,42,35958.33
+2023-04-01,2023,4,LATAM,SME Business Loan,Mobile App,SME,46,42562.33
+2023-05-01,2023,5,LATAM,SME Business Loan,Web Platform,Retail,44,37801.02
+2023-06-01,2023,6,LATAM,SME Business Loan,Mobile App,Mass Affluent,45,40219.19
+2023-07-01,2023,7,LATAM,SME Business Loan,Partner/Broker,Retail,46,40493.35
+2023-08-01,2023,8,LATAM,SME Business Loan,Branch (Assisted),Retail,53,49293.37
+2023-09-01,2023,9,LATAM,SME Business Loan,Web Platform,SME,49,45376.53
+2023-10-01,2023,10,LATAM,SME Business Loan,Web Platform,Retail,48,42267.18
+2023-11-01,2023,11,LATAM,SME Business Loan,Mobile App,SME,49,42143.23
+2023-12-01,2023,12,LATAM,SME Business Loan,Web Platform,Retail,46,43795.85
+2024-01-01,2024,1,LATAM,SME Business Loan,Web Platform,Retail,47,40644.8
+2024-02-01,2024,2,LATAM,SME Business Loan,Web Platform,Retail,47,42689.9
+2024-03-01,2024,3,LATAM,SME Business Loan,Web Platform,Mass Affluent,43,38093.45
+2024-04-01,2024,4,LATAM,SME Business Loan,Partner/Broker,Retail,52,45865.58
+2024-05-01,2024,5,LATAM,SME Business Loan,Branch (Assisted),Retail,54,48246.61
+2024-06-01,2024,6,LATAM,SME Business Loan,Web Platform,Retail,50,42797.5
+2024-07-01,2024,7,LATAM,SME Business Loan,Web Platform,SME,49,44074.49
+2024-08-01,2024,8,LATAM,SME Business Loan,Mobile App,Mass Affluent,47,42250.95
+2024-09-01,2024,9,LATAM,SME Business Loan,Branch (Assisted),Retail,42,36174.31
+2024-10-01,2024,10,LATAM,SME Business Loan,Web Platform,Mass Affluent,50,42004.32
+2024-11-01,2024,11,LATAM,SME Business Loan,Web Platform,Private/HNW,50,45419.07
+2024-12-01,2024,12,LATAM,SME Business Loan,Mobile App,Mass Affluent,50,43457.21
+2025-01-01,2025,1,LATAM,SME Business Loan,Mobile App,Retail,55,45175.37
+2025-02-01,2025,2,LATAM,SME Business Loan,Partner/Broker,Retail,51,41816.99
+2025-03-01,2025,3,LATAM,SME Business Loan,Mobile App,Retail,55,47866.97
+2025-04-01,2025,4,LATAM,SME Business Loan,Partner/Broker,Retail,55,47359.92
+2025-05-01,2025,5,LATAM,SME Business Loan,Web Platform,Retail,59,53739.93
+2025-06-01,2025,6,LATAM,SME Business Loan,Web Platform,Mass Affluent,61,51645.23
+2025-07-01,2025,7,LATAM,SME Business Loan,Branch (Assisted),Mass Affluent,60,52433.23
+2025-08-01,2025,8,LATAM,SME Business Loan,Web Platform,Mass Affluent,51,43479.92
+2025-09-01,2025,9,LATAM,SME Business Loan,Web Platform,Retail,51,46799.03
+2025-10-01,2025,10,LATAM,SME Business Loan,Mobile App,Private/HNW,59,53040.07
+2025-11-01,2025,11,LATAM,SME Business Loan,Mobile App,Retail,46,41272.04
+2025-12-01,2025,12,LATAM,SME Business Loan,Branch (Assisted),Retail,61,55862.57
+2023-01-01,2023,1,LATAM,Robo-Advisory Investment,Branch (Assisted),SME,198,44002.07
+2023-02-01,2023,2,LATAM,Robo-Advisory Investment,Branch (Assisted),Retail,231,48980.63
+2023-03-01,2023,3,LATAM,Robo-Advisory Investment,Mobile App,SME,138,27427.98
+2023-04-01,2023,4,LATAM,Robo-Advisory Investment,Mobile App,Mass Affluent,162,35290.67
+2023-05-01,2023,5,LATAM,Robo-Advisory Investment,Mobile App,Retail,138,29718.21
+2023-06-01,2023,6,LATAM,Robo-Advisory Investment,Mobile App,Mass Affluent,154,30965.78
+2023-07-01,2023,7,LATAM,Robo-Advisory Investment,Branch (Assisted),Mass Affluent,165,35022.53
+2023-08-01,2023,8,LATAM,Robo-Advisory Investment,Mobile App,Retail,167,36221.53
+2023-09-01,2023,9,LATAM,Robo-Advisory Investment,Web Platform,Retail,124,26026.18
+2023-10-01,2023,10,LATAM,Robo-Advisory Investment,Mobile App,SME,121,24727.12
+2023-11-01,2023,11,LATAM,Robo-Advisory Investment,Mobile App,SME,145,29829.38
+2023-12-01,2023,12,LATAM,Robo-Advisory Investment,Mobile App,Retail,155,32343.97
+2024-01-01,2024,1,LATAM,Robo-Advisory Investment,Mobile App,SME,238,51311.67
+2024-02-01,2024,2,LATAM,Robo-Advisory Investment,Web Platform,Retail,212,42093.78
+2024-03-01,2024,3,LATAM,Robo-Advisory Investment,Mobile App,Retail,150,29846.11
+2024-04-01,2024,4,LATAM,Robo-Advisory Investment,Mobile App,Retail,143,30392.25
+2024-05-01,2024,5,LATAM,Robo-Advisory Investment,Mobile App,SME,186,36233.35
+2024-06-01,2024,6,LATAM,Robo-Advisory Investment,Web Platform,Mass Affluent,170,35700.17
+2024-07-01,2024,7,LATAM,Robo-Advisory Investment,Mobile App,Retail,153,33892.79
+2024-08-01,2024,8,LATAM,Robo-Advisory Investment,Partner/Broker,SME,162,32931.18
+2024-09-01,2024,9,LATAM,Robo-Advisory Investment,Partner/Broker,Mass Affluent,186,39411.8
+2024-10-01,2024,10,LATAM,Robo-Advisory Investment,Mobile App,Retail,159,35283.13
+2024-11-01,2024,11,LATAM,Robo-Advisory Investment,Branch (Assisted),SME,177,35702.12
+2024-12-01,2024,12,LATAM,Robo-Advisory Investment,Mobile App,SME,166,35139.3
+2025-01-01,2025,1,LATAM,Robo-Advisory Investment,Branch (Assisted),Retail,204,42500.78
+2025-02-01,2025,2,LATAM,Robo-Advisory Investment,Branch (Assisted),Retail,238,53977.14
+2025-03-01,2025,3,LATAM,Robo-Advisory Investment,Partner/Broker,Retail,189,40400.79
+2025-04-01,2025,4,LATAM,Robo-Advisory Investment,Mobile App,Retail,175,33787.7
+2025-05-01,2025,5,LATAM,Robo-Advisory Investment,Branch (Assisted),Retail,181,37231.45
+2025-06-01,2025,6,LATAM,Robo-Advisory Investment,Branch (Assisted),Mass Affluent,169,34759.49
+2025-07-01,2025,7,LATAM,Robo-Advisory Investment,Web Platform,Retail,167,36637.52
+2025-08-01,2025,8,LATAM,Robo-Advisory Investment,Partner/Broker,Retail,194,37276.03
+2025-09-01,2025,9,LATAM,Robo-Advisory Investment,Partner/Broker,Retail,171,34937.75
+2025-10-01,2025,10,LATAM,Robo-Advisory Investment,Mobile App,Retail,195,39660.96
+2025-11-01,2025,11,LATAM,Robo-Advisory Investment,Partner/Broker,Retail,193,36838.98
+2025-12-01,2025,12,LATAM,Robo-Advisory Investment,Mobile App,Retail,171,35285.28
+2023-01-01,2023,1,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,239,23286.15
+2023-02-01,2023,2,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,242,22979.39
+2023-03-01,2023,3,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,228,21461.25
+2023-04-01,2023,4,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,230,23444.96
+2023-05-01,2023,5,LATAM,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,237,22163.88
+2023-06-01,2023,6,LATAM,Fixed Deposit / Savings Plan,Mobile App,Retail,261,25829.88
+2023-07-01,2023,7,LATAM,Fixed Deposit / Savings Plan,Partner/Broker,SME,249,24511.23
+2023-08-01,2023,8,LATAM,Fixed Deposit / Savings Plan,Mobile App,Retail,251,23288.96
+2023-09-01,2023,9,LATAM,Fixed Deposit / Savings Plan,Partner/Broker,Mass Affluent,247,23253.24
+2023-10-01,2023,10,LATAM,Fixed Deposit / Savings Plan,Partner/Broker,Retail,241,22143.55
+2023-11-01,2023,11,LATAM,Fixed Deposit / Savings Plan,Web Platform,SME,256,23660.04
+2023-12-01,2023,12,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,260,24342.64
+2024-01-01,2024,1,LATAM,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,267,26664.73
+2024-02-01,2024,2,LATAM,Fixed Deposit / Savings Plan,Partner/Broker,Retail,311,30394.67
+2024-03-01,2024,3,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,241,22727.82
+2024-04-01,2024,4,LATAM,Fixed Deposit / Savings Plan,Branch (Assisted),SME,308,31687.64
+2024-05-01,2024,5,LATAM,Fixed Deposit / Savings Plan,Web Platform,SME,241,22206.59
+2024-06-01,2024,6,LATAM,Fixed Deposit / Savings Plan,Web Platform,SME,300,28898.86
+2024-07-01,2024,7,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,279,29377.17
+2024-08-01,2024,8,LATAM,Fixed Deposit / Savings Plan,Partner/Broker,Private/HNW,277,27789.65
+2024-09-01,2024,9,LATAM,Fixed Deposit / Savings Plan,Partner/Broker,Retail,282,26317.4
+2024-10-01,2024,10,LATAM,Fixed Deposit / Savings Plan,Mobile App,Retail,267,23763.36
+2024-11-01,2024,11,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,306,28555.58
+2024-12-01,2024,12,LATAM,Fixed Deposit / Savings Plan,Mobile App,Retail,307,30243.02
+2025-01-01,2025,1,LATAM,Fixed Deposit / Savings Plan,Branch (Assisted),Retail,298,28211.12
+2025-02-01,2025,2,LATAM,Fixed Deposit / Savings Plan,Partner/Broker,Retail,295,29169.3
+2025-03-01,2025,3,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,277,23734.76
+2025-04-01,2025,4,LATAM,Fixed Deposit / Savings Plan,Mobile App,SME,301,28361.95
+2025-05-01,2025,5,LATAM,Fixed Deposit / Savings Plan,Web Platform,SME,317,30156.28
+2025-06-01,2025,6,LATAM,Fixed Deposit / Savings Plan,Mobile App,SME,320,31152.23
+2025-07-01,2025,7,LATAM,Fixed Deposit / Savings Plan,Web Platform,Mass Affluent,345,31845.23
+2025-08-01,2025,8,LATAM,Fixed Deposit / Savings Plan,Mobile App,Private/HNW,342,34250.16
+2025-09-01,2025,9,LATAM,Fixed Deposit / Savings Plan,Partner/Broker,Retail,337,31308.46
+2025-10-01,2025,10,LATAM,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,314,29291.51
+2025-11-01,2025,11,LATAM,Fixed Deposit / Savings Plan,Mobile App,Mass Affluent,325,30349.05
+2025-12-01,2025,12,LATAM,Fixed Deposit / Savings Plan,Web Platform,Retail,333,30624.59
+2023-01-01,2023,1,LATAM,Wealth Management (HNW),Web Platform,Mass Affluent,7,23261.58
+2023-02-01,2023,2,LATAM,Wealth Management (HNW),Web Platform,Retail,6,21314.67
+2023-03-01,2023,3,LATAM,Wealth Management (HNW),Mobile App,SME,7,22689.65
+2023-04-01,2023,4,LATAM,Wealth Management (HNW),Branch (Assisted),Mass Affluent,7,23565.88
+2023-05-01,2023,5,LATAM,Wealth Management (HNW),Web Platform,SME,7,23699.79
+2023-06-01,2023,6,LATAM,Wealth Management (HNW),Mobile App,Retail,7,24449.06
+2023-07-01,2023,7,LATAM,Wealth Management (HNW),Partner/Broker,SME,7,23522.66
+2023-08-01,2023,8,LATAM,Wealth Management (HNW),Branch (Assisted),Retail,7,24295.03
+2023-09-01,2023,9,LATAM,Wealth Management (HNW),Web Platform,Retail,6,20369.9
+2023-10-01,2023,10,LATAM,Wealth Management (HNW),Web Platform,Retail,7,22445.04
+2023-11-01,2023,11,LATAM,Wealth Management (HNW),Web Platform,Mass Affluent,7,24840.05
+2023-12-01,2023,12,LATAM,Wealth Management (HNW),Mobile App,SME,7,24091.82
+2024-01-01,2024,1,LATAM,Wealth Management (HNW),Web Platform,Mass Affluent,7,24801.4
+2024-02-01,2024,2,LATAM,Wealth Management (HNW),Mobile App,Retail,7,24618.23
+2024-03-01,2024,3,LATAM,Wealth Management (HNW),Mobile App,SME,8,26809.17
+2024-04-01,2024,4,LATAM,Wealth Management (HNW),Web Platform,SME,6,20784.33
+2024-05-01,2024,5,LATAM,Wealth Management (HNW),Branch (Assisted),Mass Affluent,7,24351.71
+2024-06-01,2024,6,LATAM,Wealth Management (HNW),Mobile App,Retail,7,23877.31
+2024-07-01,2024,7,LATAM,Wealth Management (HNW),Mobile App,SME,8,28267.98
+2024-08-01,2024,8,LATAM,Wealth Management (HNW),Web Platform,SME,8,27160.8
+2024-09-01,2024,9,LATAM,Wealth Management (HNW),Web Platform,Mass Affluent,8,27122.95
+2024-10-01,2024,10,LATAM,Wealth Management (HNW),Mobile App,Retail,7,23947.58
+2024-11-01,2024,11,LATAM,Wealth Management (HNW),Web Platform,Retail,8,28765.36
+2024-12-01,2024,12,LATAM,Wealth Management (HNW),Mobile App,SME,8,29185.81
+2025-01-01,2025,1,LATAM,Wealth Management (HNW),Mobile App,Mass Affluent,8,30454.42
+2025-02-01,2025,2,LATAM,Wealth Management (HNW),Mobile App,Retail,8,25234.19
+2025-03-01,2025,3,LATAM,Wealth Management (HNW),Mobile App,Mass Affluent,8,26884.17
+2025-04-01,2025,4,LATAM,Wealth Management (HNW),Mobile App,Retail,6,18289.39
+2025-05-01,2025,5,LATAM,Wealth Management (HNW),Mobile App,Private/HNW,9,29295.21
+2025-06-01,2025,6,LATAM,Wealth Management (HNW),Mobile App,SME,9,30726.7
+2025-07-01,2025,7,LATAM,Wealth Management (HNW),Branch (Assisted),Retail,8,27941.54
+2025-08-01,2025,8,LATAM,Wealth Management (HNW),Mobile App,Mass Affluent,8,26967.0
+2025-09-01,2025,9,LATAM,Wealth Management (HNW),Mobile App,Retail,9,31396.93
+2025-10-01,2025,10,LATAM,Wealth Management (HNW),Mobile App,Retail,8,26413.84
+2025-11-01,2025,11,LATAM,Wealth Management (HNW),Partner/Broker,SME,9,30818.77
+2025-12-01,2025,12,LATAM,Wealth Management (HNW),Branch (Assisted),Retail,7,23841.96
