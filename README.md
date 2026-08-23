@@ -92,11 +92,11 @@ After validating the SQL logic, I built a 3-page interactive Power BI dashboard:
 
 Link to dashboard file: [`powerbi/Fintech_Sales_Executive_Dashboard.pbix`](powerbi/Fintech_Sales_Executive_Dashboard.pbix)
 
-![Executive Overview](screenshots/dashboard_overview.png)
+![Executive Overview](screenshots/dashboard_overview.PNG)
 
-![Top/Bottom Products](screenshots/top_bottom_products.png)
+![Top/Bottom Products](screenshots/top_bottom_products.PNG)
 
-![Regional Growth](screenshots/regional_growth_map.png)
+![Regional Growth](screenshots/regional_growth_map.PNG)
 
 ## Key Insights
 
